@@ -1,54 +1,75 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import sum, avg, count
-from configs.logger_config import logger
-
+from pyspark.sql.functions import sum, count, avg
 
 # Create Spark Session
 spark = SparkSession.builder \
-    .appName("Gold Layer Pipeline") \
+    .appName("Gold Layer Analytics") \
     .getOrCreate()
 
-logger.info("Gold Layer Pipeline Started")
-
-
-# Read Silver Data
+# Read Silver Layer
 df = spark.read.parquet(
     "data/silver/retail_transactions"
 )
 
-logger.info("Silver data loaded successfully")
-
-
-print("\nSILVER DATA:")
+print("\nSILVER DATA:\n")
 df.show(5)
 
+# ---------------------------------------------------
+# 1. City-wise Revenue
+# ---------------------------------------------------
 
-# Create city-wise sales summary
-city_sales_df = df.groupBy("city").agg(
-    sum("total_amount").alias("total_revenue"),
-    avg("total_amount").alias("average_sales"),
-    count("transaction_id").alias("total_transactions")
-)
+city_revenue = df.groupBy("city") \
+    .agg(
+        sum("total_amount").alias("total_revenue")
+    ) \
+    .orderBy("total_revenue", ascending=False)
 
-logger.info("City sales aggregation completed")
+print("\nCITY-WISE REVENUE:\n")
+city_revenue.show()
 
+# ---------------------------------------------------
+# 2. Product Performance
+# ---------------------------------------------------
 
-print("\nCITY SALES SUMMARY:")
-city_sales_df.show()
+product_performance = df.groupBy("product") \
+    .agg(
+        sum("quantity").alias("total_quantity_sold"),
+        sum("total_amount").alias("total_sales")
+    ) \
+    .orderBy("total_sales", ascending=False)
 
+print("\nPRODUCT PERFORMANCE:\n")
+product_performance.show()
 
+# ---------------------------------------------------
+# 3. Payment Method Analysis
+# ---------------------------------------------------
+
+payment_analysis = df.groupBy("payment_method") \
+    .agg(
+        count("*").alias("transaction_count"),
+        avg("total_amount").alias("avg_transaction_value")
+    )
+
+print("\nPAYMENT METHOD ANALYSIS:\n")
+payment_analysis.show()
+
+# ---------------------------------------------------
 # Write Gold Layer
-city_sales_df.write.mode("overwrite").parquet(
-    "data/gold/city_sales_summary"
-)
+# ---------------------------------------------------
 
-logger.info("Gold Layer created successfully")
+city_revenue.write \
+    .mode("overwrite") \
+    .parquet("data/gold/city_revenue")
 
+product_performance.write \
+    .mode("overwrite") \
+    .parquet("data/gold/product_performance")
 
-print("\nGold Layer Created Successfully")
+payment_analysis.write \
+    .mode("overwrite") \
+    .parquet("data/gold/payment_analysis")
 
+print("\nGold Layer analytics stored successfully.")
 
-# Stop Spark Session
 spark.stop()
-
-logger.info("Spark Session Stopped")

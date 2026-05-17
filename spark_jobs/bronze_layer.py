@@ -1,49 +1,26 @@
 from pyspark.sql import SparkSession
-from configs.logger_config import logger
-
-
-# Start Logging
-logger.info("Bronze Layer Pipeline Started")
-
 
 # Create Spark Session
 spark = SparkSession.builder \
-    .appName("Bronze Layer Pipeline") \
+    .appName("Bronze Layer Streaming Pipeline") \
     .getOrCreate()
 
-
-# Read raw CSV data
-df = spark.read.csv(
-    "data/raw/retail_transactions.csv",
-    header=True,
-    inferSchema=True
+# Read streaming JSON data
+df = spark.read.json(
+    "data/raw/streaming_retail_data.json"
 )
 
+print("\nRAW STREAMING DATA:\n")
 
-print("\nRAW DATA:")
 df.show(5)
 
-logger.info("Raw data loaded successfully")
+# Write Bronze Layer
+output_path = "data/bronze/retail_transactions"
 
+df.write \
+    .mode("overwrite") \
+    .parquet(output_path)
 
-print("\nSCHEMA:")
-df.printSchema()
+print(f"\nBronze Layer stored at: {output_path}")
 
-logger.info("Schema printed successfully")
-
-
-# Write to Bronze Layer in Parquet format
-df.write.mode("overwrite").parquet(
-    "data/bronze/retail_transactions"
-)
-
-print("\nBronze Layer Created Successfully")
-
-logger.info("Bronze Layer parquet files created successfully")
-
-
-# Stop Spark session
 spark.stop()
-
-logger.info("Spark Session Stopped")
-logger.info("Bronze Layer Pipeline Completed Successfully")

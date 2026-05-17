@@ -1,70 +1,45 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, current_timestamp
-from configs.logger_config import logger
-
+from pyspark.sql.functions import col, to_timestamp, year, month
 
 # Create Spark Session
 spark = SparkSession.builder \
     .appName("Silver Layer Pipeline") \
     .getOrCreate()
 
-
-logger.info("Silver Layer Pipeline Started")
-
-
-# Read Bronze Data
+# Read Bronze Layer
 df = spark.read.parquet(
     "data/bronze/retail_transactions"
 )
 
-logger.info("Bronze data loaded successfully")
-
-
-print("\nBRONZE DATA:")
+print("\nBRONZE DATA:\n")
 df.show(5)
 
+# Remove duplicates
+df = df.dropDuplicates(["transaction_id"])
 
 # Remove null values
-clean_df = df.dropna()
+df = df.dropna()
 
-logger.info("Null values removed")
-
-
-# Remove duplicate transactions
-clean_df = clean_df.dropDuplicates(["transaction_id"])
-
-logger.info("Duplicate records removed")
-
-
-# Add processing timestamp
-clean_df = clean_df.withColumn(
-    "processed_timestamp",
-    current_timestamp()
+# Convert timestamp column
+df = df.withColumn(
+    "timestamp",
+    to_timestamp(col("timestamp"))
 )
 
-logger.info("Processed timestamp column added")
+# Create derived columns
+df = df.withColumn("year", year(col("timestamp")))
+df = df.withColumn("month", month(col("timestamp")))
 
-
-print("\nCLEANED DATA:")
-clean_df.show(5)
-
-
-print("\nSILVER SCHEMA:")
-clean_df.printSchema()
-
+print("\nCLEANED SILVER DATA:\n")
+df.show(5)
 
 # Write Silver Layer
-clean_df.write.mode("overwrite").parquet(
-    "data/silver/retail_transactions"
-)
+output_path = "data/silver/retail_transactions"
 
-logger.info("Silver Layer created successfully")
+df.write \
+    .mode("overwrite") \
+    .parquet(output_path)
 
+print(f"\nSilver Layer stored at: {output_path}")
 
-print("\nSilver Layer Created Successfully")
-
-
-# Stop Spark Session
 spark.stop()
-
-logger.info("Spark Session Stopped")
