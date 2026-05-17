@@ -1,0 +1,11 @@
+services:
+  retail_lakehouse:
+    build: .
+    container_name: retail_lakehouse_container
+
+    volumes:
+      - .:/app
+
+    working_dir: /app
+
+    command: python -m spark_jobs.gold_layer

@@ -1,0 +1,1001 @@
+transaction_id,timestamp,product_name,category,price,quantity,total_amount,city,payment_method
+4a9b5e23-2480-40d1-8535-ec04d262238c,2026-04-24 20:37:26,T-Shirt,Fashion,800,5,4000,Mumbai,Debit Card
+2a301a98-3a56-430e-a2cd-fe0bf7550ccf,2026-03-27 15:27:26,Headphones,Electronics,5000,4,20000,Bangalore,UPI
+b399dd90-228f-4f04-aade-f756645467b7,2026-05-03 19:16:26,Jeans,Fashion,1800,2,3600,Pune,Credit Card
+f0247e0e-1af7-4cfe-a9b6-e331513ef18e,2026-04-25 15:36:26,Shoes,Fashion,2500,4,10000,Delhi,Debit Card
+f148ce54-eee4-4ba2-879b-9409a54709bf,2026-04-20 05:03:26,Headphones,Electronics,5000,3,15000,Delhi,Cash
+170b6bb8-4854-4391-95e9-ca78c68e4b02,2026-03-11 08:19:26,Jeans,Fashion,1800,1,1800,Mumbai,Cash
+881e092e-3494-4f2c-aa2d-15e59c2bc423,2026-04-14 04:50:26,Keyboard,Electronics,2000,2,4000,Bangalore,Debit Card
+29ae862b-48f6-44ab-bd7b-5dff45bc0847,2026-04-02 08:56:26,Shoes,Fashion,2500,2,5000,Bangalore,Cash
+b5c9fb94-c649-45fb-bcd6-38ac81070a89,2026-03-03 08:36:26,Keyboard,Electronics,2000,4,8000,Pune,Cash
+96a93425-0e62-4793-9037-165f69f72fd6,2026-04-03 17:11:26,Jeans,Fashion,1800,4,7200,Hyderabad,UPI
+f32f66ab-7ba6-4353-a283-6fb3ef1077c1,2026-04-12 17:45:26,Headphones,Electronics,5000,4,20000,Bangalore,Debit Card
+36505540-ff4b-4c22-af6f-0a8e1cc2457f,2026-04-10 09:23:26,T-Shirt,Fashion,800,2,1600,Hyderabad,Credit Card
+a6849d9c-37db-4f75-ace3-45b2c44996bc,2026-04-12 21:00:26,Keyboard,Electronics,2000,5,10000,Bangalore,Debit Card
+dcb7ccad-c159-4c70-ba43-96ce8ebbf56c,2026-03-03 03:00:26,Jeans,Fashion,1800,5,9000,Pune,Cash
+222e08ed-5d9b-45ee-a98d-6f44894221ec,2026-04-29 09:31:26,Mouse,Electronics,1000,1,1000,Bangalore,Credit Card
+4d0fc001-5395-4b28-8eb7-421eadd1c1f0,2026-03-08 12:32:26,Laptop,Electronics,75000,5,375000,Chennai,Cash
+430a4425-4e59-43e2-8ddf-7a5af553bfb1,2026-04-24 19:44:26,Monitor,Electronics,15000,3,45000,Delhi,Credit Card
+76863fff-a507-43e7-baca-5f11ffd643fd,2026-05-09 16:27:26,Shoes,Fashion,2500,1,2500,Hyderabad,Debit Card
+3b6d31e2-959f-4935-b599-6493fde8c43d,2026-05-06 03:10:26,Jeans,Fashion,1800,3,5400,Pune,Credit Card
+57263c74-8028-4f0c-91eb-a543a8edbf28,2026-04-01 15:22:26,Keyboard,Electronics,2000,1,2000,Mumbai,Cash
+df78e958-bfc7-425d-be7d-ffb4669b6a46,2026-04-14 01:32:26,Shoes,Fashion,2500,1,2500,Bangalore,Cash
+6799b53a-1767-409c-9c42-f1a277a470a4,2026-03-25 17:19:26,Headphones,Electronics,5000,5,25000,Delhi,Debit Card
+9e8bc436-cfff-4fdb-9f7e-bed6f80ba752,2026-04-19 07:06:26,Jeans,Fashion,1800,2,3600,Pune,Cash
+9d05ba72-839d-4c7d-ad50-b2d78e2ce742,2026-04-17 08:32:26,Shoes,Fashion,2500,4,10000,Chennai,Credit Card
+6b8e45c2-5e02-4abc-815f-005e59a5e45b,2026-04-12 15:07:26,Phone,Electronics,30000,4,120000,Hyderabad,Credit Card
+9fd5a1d6-9b8f-4763-a564-031481f16cd0,2026-04-18 14:13:26,Laptop,Electronics,75000,3,225000,Hyderabad,Cash
+c627919b-df5f-4414-b201-231dfb81dcbb,2026-03-04 00:42:26,Jeans,Fashion,1800,3,5400,Mumbai,UPI
+42d1203d-4fe5-4438-80d6-d52624289b3f,2026-05-06 15:14:26,Shoes,Fashion,2500,2,5000,Mumbai,Credit Card
+f28fdfeb-db2b-4af9-abea-52aa4f99b2fb,2026-03-11 06:09:26,Jeans,Fashion,1800,1,1800,Mumbai,UPI
+2e2e6186-0511-498d-92b7-0c7e3efdb58e,2026-05-09 20:30:26,Keyboard,Electronics,2000,1,2000,Pune,Credit Card
+9cdf9afd-7300-47d1-9700-da66affca672,2026-03-11 22:39:26,Phone,Electronics,30000,4,120000,Mumbai,Credit Card
+d23f1668-fbcc-4192-a40e-bbc72d6663de,2026-04-21 10:57:26,Mouse,Electronics,1000,4,4000,Hyderabad,Debit Card
+4926b100-9468-496b-9e0a-1741aef99c80,2026-03-28 12:09:26,Laptop,Electronics,75000,3,225000,Delhi,Debit Card
+caa23abb-dce2-4e61-82d2-8d5cbf520ff4,2026-04-02 16:49:26,T-Shirt,Fashion,800,4,3200,Mumbai,Cash
+61d1a93c-4e7c-420a-aab7-981cc8a9a479,2026-03-24 12:51:26,Phone,Electronics,30000,1,30000,Hyderabad,UPI
+6479c737-f633-4743-86d7-9e1a6412bc44,2026-03-20 11:45:26,Keyboard,Electronics,2000,5,10000,Bangalore,Cash
+5d374b08-2c25-4b6e-8cbc-d5d7fdbaa9a8,2026-03-25 20:33:26,Jeans,Fashion,1800,4,7200,Chennai,Credit Card
+9f849436-5060-41d5-9637-2e4091f1eb41,2026-04-26 22:07:26,Jeans,Fashion,1800,3,5400,Delhi,Credit Card
+de0789a7-6a63-4f6b-981f-ec7db815cdfb,2026-04-29 02:11:26,Phone,Electronics,30000,1,30000,Chennai,Cash
+18aafcba-d80d-47f1-9adf-5a8f41872bdc,2026-04-13 18:14:26,Laptop,Electronics,75000,1,75000,Bangalore,Credit Card
+350bc008-2d47-431a-ac3f-109a01758b83,2026-03-12 21:51:26,Monitor,Electronics,15000,3,45000,Chennai,Debit Card
+f363c1d7-fee5-46b4-add9-d49fb497b973,2026-05-02 04:06:26,Laptop,Electronics,75000,2,150000,Pune,Credit Card
+3f86f5eb-b865-4dfb-83bc-b3ced837ae80,2026-04-30 01:33:26,Phone,Electronics,30000,3,90000,Pune,UPI
+bff743d0-ea3a-4e89-b8e9-4b5ae3e05946,2026-04-11 14:39:26,Shoes,Fashion,2500,2,5000,Pune,UPI
+ee6c8ee7-f27a-49ec-9d45-720b26dba798,2026-03-05 08:39:26,Headphones,Electronics,5000,5,25000,Mumbai,Cash
+09af2906-b734-4c1a-bda2-cf1b7f1655b2,2026-03-22 10:26:26,Phone,Electronics,30000,4,120000,Delhi,UPI
+0d739cbf-439b-4d6b-a95c-75e468e6fdf4,2026-05-05 08:34:26,Phone,Electronics,30000,2,60000,Delhi,Debit Card
+b317d04b-d77b-4719-a172-8479405e935c,2026-04-27 06:53:26,T-Shirt,Fashion,800,5,4000,Hyderabad,UPI
+6f3788e0-611c-4657-a6a6-a51a4dc9f670,2026-03-14 19:37:26,T-Shirt,Fashion,800,5,4000,Chennai,Credit Card
+3aec360f-0a70-4fd6-a75a-7ae7f0edbde6,2026-03-05 07:30:26,Headphones,Electronics,5000,2,10000,Hyderabad,Cash
+083f80f0-0c17-4117-8e64-047087aaff06,2026-04-03 03:21:26,Phone,Electronics,30000,4,120000,Bangalore,Credit Card
+0fea6783-0ed2-41a2-9d3d-e9e9ae0739f1,2026-05-10 20:02:26,Headphones,Electronics,5000,4,20000,Hyderabad,UPI
+3e6773c8-92ff-4c70-b3a4-5614440b0b6b,2026-03-09 10:26:26,Monitor,Electronics,15000,5,75000,Pune,Cash
+5523e236-468b-4a90-bb38-d0db4d81a59c,2026-03-27 08:52:26,Watch,Accessories,5000,4,20000,Mumbai,Debit Card
+5c5fe266-d274-4402-b7d5-3ed8c6024228,2026-04-24 03:38:26,Shoes,Fashion,2500,3,7500,Delhi,Debit Card
+c5a00c77-4a6e-4fe8-986d-efc6f4dca505,2026-03-18 08:35:26,Keyboard,Electronics,2000,3,6000,Mumbai,Cash
+32b84404-115d-4029-90af-8b8cecf8cff9,2026-04-03 15:59:26,Jeans,Fashion,1800,2,3600,Chennai,Credit Card
+3a000952-aefa-4963-86d2-3015b9acf19c,2026-03-06 17:18:26,Laptop,Electronics,75000,2,150000,Hyderabad,Credit Card
+50c3f9fa-d4e5-4e2f-b608-c965627fe4e1,2026-03-06 22:50:26,Mouse,Electronics,1000,4,4000,Bangalore,UPI
+447810cd-f179-4e8e-bb79-f965f1d859b1,2026-04-12 15:22:26,Watch,Accessories,5000,5,25000,Delhi,Credit Card
+e5cf7421-1476-4651-b592-b3db21f879fe,2026-04-08 11:16:26,Monitor,Electronics,15000,3,45000,Bangalore,Cash
+2891d26b-da15-420a-8e55-87243c5c7742,2026-04-02 18:47:26,Mouse,Electronics,1000,4,4000,Bangalore,UPI
+f1b6d7e5-06e6-49cf-a8b6-395f45b03022,2026-04-24 02:17:26,Headphones,Electronics,5000,4,20000,Delhi,Credit Card
+8879baa9-7f5c-4a79-bd7e-7f17f8e9d664,2026-04-08 07:31:26,Jeans,Fashion,1800,5,9000,Bangalore,Cash
+955eecc5-3627-434f-8f38-c3a80ebaa50f,2026-05-04 12:56:26,T-Shirt,Fashion,800,5,4000,Chennai,Debit Card
+0878f5fd-b990-43f1-82b3-1c42f34eaff1,2026-04-06 05:25:26,Watch,Accessories,5000,1,5000,Bangalore,Cash
+a0d9b767-8fcf-4d98-8b23-1956638be572,2026-03-27 23:37:26,T-Shirt,Fashion,800,5,4000,Chennai,Credit Card
+284357da-6867-465c-b44b-5968bca0fd9e,2026-03-28 16:27:26,Headphones,Electronics,5000,2,10000,Bangalore,Cash
+cd215145-e310-4a7a-bbdc-45c5f2a099d4,2026-04-11 23:58:26,Watch,Accessories,5000,1,5000,Delhi,Credit Card
+76d73831-8e83-4fd9-bbac-872278190710,2026-03-17 10:30:26,Phone,Electronics,30000,1,30000,Hyderabad,Debit Card
+7c2888ab-b9cd-4d62-b854-f26a93446005,2026-04-22 03:46:26,Watch,Accessories,5000,5,25000,Bangalore,UPI
+a66ca415-de5f-4ebe-9ffc-413296a067b5,2026-03-10 08:17:26,Keyboard,Electronics,2000,1,2000,Hyderabad,Credit Card
+85710b95-cd56-491b-99c1-f77705931b41,2026-04-19 01:02:26,Keyboard,Electronics,2000,1,2000,Delhi,UPI
+c0cbb6ec-c2be-41c1-935d-86f8d45b24c9,2026-03-04 17:07:26,Mouse,Electronics,1000,2,2000,Hyderabad,Credit Card
+bb39503b-ace5-4da4-a368-7e57f7b7cdba,2026-03-09 01:56:26,Shoes,Fashion,2500,4,10000,Mumbai,Credit Card
+7770f6dd-6af6-4c35-84c7-8fd040991de0,2026-03-04 22:21:26,Watch,Accessories,5000,1,5000,Mumbai,Cash
+efe69d1c-7682-4173-99c0-a3b35acac6fd,2026-05-08 13:52:26,Watch,Accessories,5000,4,20000,Delhi,UPI
+17107819-277a-4b0b-8bb6-4b6a811b6da7,2026-05-09 03:44:26,Mouse,Electronics,1000,5,5000,Hyderabad,Debit Card
+2239567a-0638-4087-b77c-5157dd1fb20b,2026-04-11 08:21:26,Watch,Accessories,5000,3,15000,Hyderabad,Cash
+7cc2cb96-eedc-49ed-a403-dd42b3104942,2026-03-13 14:13:26,Phone,Electronics,30000,5,150000,Delhi,Credit Card
+5188eadf-4b0a-4987-bc72-fc5aaaceeebb,2026-03-19 01:08:26,Jeans,Fashion,1800,3,5400,Delhi,Debit Card
+5d0dad06-e24d-4f42-83ba-f728bb2c262e,2026-03-19 01:02:26,Laptop,Electronics,75000,3,225000,Delhi,Cash
+0a35b31d-7154-42a5-b6bb-03ae028ac9d2,2026-03-16 20:07:26,Headphones,Electronics,5000,1,5000,Chennai,Credit Card
+5e73279c-0750-4b89-82e6-19e2007231a1,2026-03-28 06:30:26,Mouse,Electronics,1000,2,2000,Pune,Credit Card
+69308642-6c57-41cf-9f9c-c3a9eafba23a,2026-04-11 10:31:26,Shoes,Fashion,2500,2,5000,Bangalore,UPI
+0420e587-08db-40cf-9f82-3877be2a7bec,2026-03-27 03:58:26,Keyboard,Electronics,2000,3,6000,Mumbai,UPI
+29eaf85f-4d72-4786-b79e-cb89367afc57,2026-03-18 23:51:26,Jeans,Fashion,1800,3,5400,Pune,Cash
+663363e9-b901-4246-b123-68d263c4a6f8,2026-04-18 03:03:26,Laptop,Electronics,75000,2,150000,Pune,Credit Card
+aceec3e4-8fbd-467f-bb9f-cdd626422384,2026-03-22 19:55:26,Keyboard,Electronics,2000,3,6000,Hyderabad,Cash
+3199b7b0-b51f-47f7-a46b-9f4bfdf69cf0,2026-03-03 03:44:26,Headphones,Electronics,5000,5,25000,Chennai,Debit Card
+9b6838ca-8ca0-46d7-9bc6-b4d94d1b8851,2026-03-15 14:10:26,Keyboard,Electronics,2000,2,4000,Mumbai,UPI
+d955f1f1-b395-4c31-90ee-78c3ee2b71cb,2026-04-06 10:32:26,Shoes,Fashion,2500,3,7500,Mumbai,Cash
+17161ba9-2b9e-4b35-ae53-657fefbfb153,2026-04-06 00:44:26,Phone,Electronics,30000,4,120000,Delhi,Debit Card
+6d769392-60c6-49ff-926e-9f81a58fa1c0,2026-03-31 14:52:26,Laptop,Electronics,75000,3,225000,Hyderabad,Credit Card
+2891d73a-dc3a-40c2-a9eb-1c3e0395ca77,2026-04-17 18:46:26,T-Shirt,Fashion,800,5,4000,Pune,Cash
+a831d497-c9a9-44e4-b841-64a78f9087e4,2026-04-01 02:28:26,T-Shirt,Fashion,800,5,4000,Delhi,UPI
+11d57271-7a4c-4d62-bf2d-c97065618d2f,2026-03-20 11:02:26,Headphones,Electronics,5000,3,15000,Hyderabad,Debit Card
+222bd8bd-8dca-468b-bf12-b86504080202,2026-03-09 21:57:26,T-Shirt,Fashion,800,5,4000,Mumbai,Credit Card
+4645c6e9-a797-4731-958b-355d6bb2205e,2026-03-16 06:01:26,Laptop,Electronics,75000,4,300000,Chennai,Cash
+1dc131ba-366e-4c3a-9028-4fc4b455440a,2026-04-30 02:24:26,Keyboard,Electronics,2000,5,10000,Chennai,UPI
+b00ec0d5-938e-44cf-b2fd-ae2a8c755b7d,2026-04-20 01:10:26,Headphones,Electronics,5000,1,5000,Mumbai,Credit Card
+71263578-28b9-454f-8e36-bb6c5928f5b0,2026-04-24 09:29:26,Watch,Accessories,5000,5,25000,Pune,Credit Card
+a82bcedc-a585-4643-ba22-ba1db59c6d46,2026-03-06 08:58:26,Headphones,Electronics,5000,1,5000,Pune,Debit Card
+2ad1c0d7-d086-463a-9470-f04381ade7fc,2026-05-09 19:05:26,Monitor,Electronics,15000,3,45000,Bangalore,Cash
+1beeae14-66de-48e1-8db9-77c9bce99f5f,2026-04-07 17:44:26,Monitor,Electronics,15000,1,15000,Chennai,UPI
+5b0aca44-8a17-42fb-888d-2c5c1cc7b86a,2026-04-29 19:25:26,Mouse,Electronics,1000,3,3000,Pune,Debit Card
+0471366b-77ce-44d7-8b21-95c2872c1953,2026-04-19 05:30:26,T-Shirt,Fashion,800,1,800,Pune,Debit Card
+20540333-6d2f-435c-8ede-9e19d1c39aaa,2026-04-21 11:12:26,Jeans,Fashion,1800,1,1800,Bangalore,UPI
+12ef95e4-cf78-4c05-8d9d-cfa39e63e478,2026-04-23 02:24:26,T-Shirt,Fashion,800,2,1600,Pune,UPI
+b1340385-6cf1-4237-aa13-a63e7e7b42f4,2026-03-09 13:48:26,Jeans,Fashion,1800,1,1800,Delhi,Credit Card
+244e567c-94bb-4894-af16-a26cbe358cc0,2026-05-09 16:50:26,Headphones,Electronics,5000,2,10000,Chennai,UPI
+2189a97b-40d4-4d8f-a77b-edb0e1c7e42f,2026-04-25 04:59:26,Watch,Accessories,5000,5,25000,Hyderabad,Debit Card
+5669741d-53b1-4fbd-b5c0-1f26225c4708,2026-04-16 21:49:26,Headphones,Electronics,5000,4,20000,Chennai,Debit Card
+fa97d72c-7cde-4f89-b99e-ce2ee8b0791e,2026-05-09 12:23:26,Headphones,Electronics,5000,3,15000,Delhi,UPI
+a966ca14-c7b1-4c5a-b240-0b7a0d3b230c,2026-05-01 04:53:26,Headphones,Electronics,5000,1,5000,Mumbai,Debit Card
+34ed7fa8-fce6-4b31-85d8-1257ba9d8d91,2026-05-07 23:32:26,Shoes,Fashion,2500,3,7500,Chennai,Debit Card
+17380cb9-c738-4da1-9dbd-dcd008a2c187,2026-03-06 22:05:26,T-Shirt,Fashion,800,1,800,Hyderabad,Credit Card
+fd943488-70a3-470b-81cb-2ce6ed42132f,2026-04-23 09:47:26,Keyboard,Electronics,2000,3,6000,Bangalore,UPI
+3de6b9a3-4ff2-4777-ae85-060833ec60e9,2026-04-06 05:35:26,T-Shirt,Fashion,800,5,4000,Chennai,Debit Card
+9291129b-1cbe-467d-a0b4-500e96c4630e,2026-03-13 22:39:26,Mouse,Electronics,1000,3,3000,Pune,UPI
+e3bc09e9-551b-4805-8d59-a6f427992844,2026-04-06 04:24:26,T-Shirt,Fashion,800,2,1600,Pune,Debit Card
+6bb789ba-9fbc-45b2-bff7-4f9cbfb075a4,2026-04-14 23:56:26,Monitor,Electronics,15000,4,60000,Chennai,Credit Card
+702d3a14-9c6e-435b-a9ee-9fdf8a958ea6,2026-03-24 13:23:26,Phone,Electronics,30000,4,120000,Chennai,UPI
+ca2be7df-466f-4d82-8e0a-2cc7ae2064fb,2026-04-24 11:45:26,Headphones,Electronics,5000,3,15000,Mumbai,Credit Card
+6b5db760-cc96-4c6c-9e5b-ae33f3b89720,2026-03-21 08:14:26,Shoes,Fashion,2500,5,12500,Hyderabad,Credit Card
+aea84c12-a236-47e4-b0da-52323ce858fb,2026-05-06 03:19:26,Laptop,Electronics,75000,5,375000,Mumbai,Debit Card
+2c804863-c89d-47cb-83ed-fe9ab8c53d99,2026-04-07 17:40:26,Shoes,Fashion,2500,4,10000,Pune,Cash
+6a9caa11-1799-48b6-8e5a-10b5d0352e43,2026-05-06 16:41:26,Mouse,Electronics,1000,1,1000,Bangalore,Credit Card
+87bfe230-fd34-45fe-89d1-376f28b0d761,2026-04-22 23:48:26,Mouse,Electronics,1000,4,4000,Delhi,UPI
+790da1ba-688e-44dd-ab4f-1bf5248672bd,2026-03-10 16:24:26,Headphones,Electronics,5000,1,5000,Chennai,Debit Card
+90eb105d-4bb5-421b-b2fb-730b71af974c,2026-03-19 18:21:26,Phone,Electronics,30000,1,30000,Bangalore,Cash
+f7610fa1-d2d1-45e1-b443-6a5dce3d7fd3,2026-03-28 12:40:26,Mouse,Electronics,1000,3,3000,Hyderabad,Debit Card
+019a5ddc-5b54-4e45-aa53-e0149b0097fe,2026-03-23 20:02:26,Phone,Electronics,30000,5,150000,Mumbai,Cash
+e3cd136b-54bb-4f9e-85e1-8d55e6061110,2026-04-12 20:37:26,Mouse,Electronics,1000,2,2000,Delhi,Credit Card
+edced48c-ff89-47df-a38c-0dfd729f5bdd,2026-04-22 16:11:26,Shoes,Fashion,2500,4,10000,Chennai,Cash
+35fbfbd0-cc56-4b8f-81c2-baf9cde47e57,2026-04-24 11:03:26,Phone,Electronics,30000,1,30000,Delhi,Debit Card
+54354389-1d0b-4667-baea-c62eff0a8416,2026-03-16 09:16:26,Laptop,Electronics,75000,2,150000,Mumbai,UPI
+b4cba1cd-93c8-4820-8637-5e0bc5b68c99,2026-04-23 23:14:26,T-Shirt,Fashion,800,5,4000,Pune,UPI
+ca9145fc-69bd-4fa7-905e-e5b7a3e21c3f,2026-04-09 03:25:26,Monitor,Electronics,15000,5,75000,Hyderabad,Debit Card
+81d12046-445a-4ebf-8ad5-2646185e2f1c,2026-03-04 11:27:26,Jeans,Fashion,1800,4,7200,Hyderabad,UPI
+a38d2175-8550-4279-865d-7084e2bb29be,2026-03-28 03:39:26,Shoes,Fashion,2500,1,2500,Delhi,UPI
+e5a0c9f6-500f-4f29-991c-606fba09f49a,2026-04-03 00:41:26,Shoes,Fashion,2500,5,12500,Hyderabad,Cash
+8852f6a8-5aeb-49d3-bf6b-9916c99ca590,2026-04-03 05:52:26,T-Shirt,Fashion,800,2,1600,Hyderabad,UPI
+8182c742-d767-4029-ad57-418821481be4,2026-03-24 23:54:26,Headphones,Electronics,5000,2,10000,Pune,Cash
+f3f8f476-cf2d-4ebb-849e-fa26e44beb0e,2026-03-12 22:00:26,Shoes,Fashion,2500,3,7500,Bangalore,Credit Card
+7dac93ba-7199-4ec7-8ce1-f13cd076d773,2026-03-27 21:18:26,Headphones,Electronics,5000,2,10000,Pune,UPI
+8d44fba8-7f9a-4dea-a5b7-405f8f4efb8d,2026-03-29 17:57:26,Headphones,Electronics,5000,1,5000,Bangalore,UPI
+ab081fb6-0c4f-46ee-80b6-757dc647799d,2026-03-18 13:47:26,Keyboard,Electronics,2000,4,8000,Pune,Cash
+21b120ca-954b-4dcc-ae67-d3af87eb05f2,2026-04-24 05:25:26,Shoes,Fashion,2500,3,7500,Bangalore,Cash
+e7ce313a-328d-4634-b1df-0eb972ab43a6,2026-03-28 14:00:26,Phone,Electronics,30000,1,30000,Bangalore,Debit Card
+970686e4-100a-4286-ad26-e469c19fc6a4,2026-05-04 11:18:26,Shoes,Fashion,2500,5,12500,Bangalore,UPI
+a1a04c9f-d1a7-4f67-83a8-308a03d9f93b,2026-05-07 12:13:26,Watch,Accessories,5000,5,25000,Delhi,Cash
+d7627853-0464-45af-a813-d4768f91cd6f,2026-03-23 01:36:26,Laptop,Electronics,75000,4,300000,Delhi,Credit Card
+9a7bc3a2-cf6e-4c57-b81e-a8766f66e897,2026-04-05 01:20:26,Jeans,Fashion,1800,5,9000,Mumbai,Credit Card
+4d55d145-4284-486b-99e8-720b82469e75,2026-03-15 01:09:26,Monitor,Electronics,15000,5,75000,Bangalore,UPI
+886f7930-78e5-4bab-945e-b240ce69a2e0,2026-03-03 09:22:26,Headphones,Electronics,5000,1,5000,Mumbai,UPI
+ee1bdb38-4ee3-4b9a-ad3d-28dcec1d0e23,2026-04-05 19:51:26,Phone,Electronics,30000,1,30000,Pune,Debit Card
+cbf20c4b-bd8f-43d3-9281-4f0b16562373,2026-04-28 08:19:26,Shoes,Fashion,2500,1,2500,Chennai,Cash
+ba6deb8b-e933-42bb-abb2-14646fbd7251,2026-04-23 02:09:26,Shoes,Fashion,2500,3,7500,Pune,Credit Card
+27c40c71-0320-4368-8e48-f18e69cd63f0,2026-05-01 22:34:26,Keyboard,Electronics,2000,2,4000,Hyderabad,Cash
+90d29026-0a4c-44a1-a834-01bf61d1a479,2026-03-07 13:45:26,Laptop,Electronics,75000,4,300000,Pune,Credit Card
+c4a7a2f6-2934-4d66-b01a-7458b89a31b7,2026-04-12 17:30:26,Monitor,Electronics,15000,3,45000,Pune,Debit Card
+85f56b7f-9aed-4b43-af48-118b790c3fd6,2026-03-23 21:38:26,T-Shirt,Fashion,800,3,2400,Bangalore,Debit Card
+b09fdf7a-961c-4a68-9a9b-4489a82fa1a9,2026-04-14 09:34:26,Monitor,Electronics,15000,1,15000,Hyderabad,Debit Card
+c0b6d78e-8d77-4f79-b3db-003395b7efc6,2026-04-28 11:44:26,Shoes,Fashion,2500,2,5000,Pune,Credit Card
+3cad7c04-b3fe-410e-9bc0-9a04f25fcc09,2026-03-17 23:10:26,Laptop,Electronics,75000,3,225000,Bangalore,Credit Card
+00649400-3dd3-42d7-bfee-e305d97a72ff,2026-03-28 23:06:26,Laptop,Electronics,75000,3,225000,Chennai,Credit Card
+01085d5c-397c-49a3-abcb-12325ce358cd,2026-03-09 16:16:26,Monitor,Electronics,15000,1,15000,Pune,UPI
+27d7eec8-d999-4971-b861-90ffc427b497,2026-05-02 23:46:26,Phone,Electronics,30000,5,150000,Hyderabad,Debit Card
+fe5a4188-eaf0-43a8-ba8f-1db511f6047d,2026-04-04 16:30:26,Mouse,Electronics,1000,1,1000,Delhi,Debit Card
+8a212ac8-4d68-412d-99c9-51cc2350035a,2026-04-27 05:54:26,Jeans,Fashion,1800,4,7200,Hyderabad,Credit Card
+6eb19c20-1c4c-4dbd-abc5-e6600969c75b,2026-04-06 03:47:26,Mouse,Electronics,1000,1,1000,Pune,Debit Card
+ab72a34a-e402-49fd-9ecd-bfa1603938d0,2026-04-02 02:41:26,Keyboard,Electronics,2000,4,8000,Pune,Cash
+1b4b2602-6c18-4890-a750-3339382b1ed6,2026-04-08 01:48:26,Jeans,Fashion,1800,1,1800,Mumbai,Debit Card
+f585bd51-c9b6-4a72-90de-5757e6bea67e,2026-04-07 19:07:26,Mouse,Electronics,1000,5,5000,Hyderabad,Credit Card
+0a548c5f-cf87-4c29-be47-b933bb2dc064,2026-04-27 03:57:26,Jeans,Fashion,1800,5,9000,Bangalore,UPI
+04d0b9a5-5d5a-4cef-b623-fbd0c4fa97f2,2026-03-27 07:59:26,Phone,Electronics,30000,2,60000,Mumbai,UPI
+e67eec9c-eef8-437c-9971-cb40070f5b1d,2026-04-04 12:46:26,T-Shirt,Fashion,800,1,800,Pune,Debit Card
+341fcb0b-307d-4a3b-a28c-902d67069b98,2026-04-01 15:02:26,T-Shirt,Fashion,800,5,4000,Delhi,Credit Card
+df0271c1-dba0-48e8-963e-1564642f6ed2,2026-03-08 10:34:26,T-Shirt,Fashion,800,4,3200,Bangalore,Cash
+43a3a84b-03b3-4341-8ee6-d9666c9193c6,2026-04-21 04:48:26,T-Shirt,Fashion,800,2,1600,Pune,UPI
+93b5c200-8931-4982-a761-202e1459c02d,2026-03-27 21:35:26,Jeans,Fashion,1800,2,3600,Pune,Credit Card
+1e420f81-9e00-4a75-8429-020684a68b62,2026-04-24 09:28:26,Phone,Electronics,30000,5,150000,Hyderabad,Credit Card
+a7948593-de79-4566-98b8-84f128d3e88e,2026-05-04 21:10:26,Shoes,Fashion,2500,2,5000,Hyderabad,UPI
+cbbade69-4e8a-4f88-8b3f-881a11e16a4c,2026-04-02 22:25:26,Phone,Electronics,30000,4,120000,Mumbai,Debit Card
+e631137f-3662-43c3-ae31-9c50567bb1d5,2026-04-28 00:06:26,Monitor,Electronics,15000,4,60000,Mumbai,Credit Card
+612604c6-bf22-4a28-8703-e0514ad4e6b1,2026-04-13 16:09:26,Laptop,Electronics,75000,5,375000,Delhi,Cash
+94d9c3ac-f063-45ae-8388-4bab721f71e4,2026-03-30 17:54:26,Shoes,Fashion,2500,4,10000,Chennai,Cash
+2ec742f8-7306-461b-bfe4-e75c8a2711d6,2026-05-11 09:13:26,Jeans,Fashion,1800,2,3600,Delhi,Cash
+cbb89806-4cdc-49e9-b034-301c6dad2756,2026-05-02 19:49:26,Mouse,Electronics,1000,1,1000,Hyderabad,Debit Card
+662b7832-19c4-45d3-ad20-854c1b1d4c74,2026-04-16 00:56:26,Mouse,Electronics,1000,1,1000,Chennai,Credit Card
+ff021431-6581-47c6-bad1-af1905bf9ed7,2026-03-06 11:49:26,Mouse,Electronics,1000,5,5000,Delhi,Credit Card
+f7482635-b2fe-479e-b195-d5addcc67cd7,2026-04-13 16:25:26,Keyboard,Electronics,2000,5,10000,Delhi,Debit Card
+df1ef0b7-de2e-4dbd-81bb-d91c8b15cbd5,2026-03-18 18:48:26,Keyboard,Electronics,2000,5,10000,Pune,Debit Card
+7e3d3913-d905-44b1-ab30-0652103e8514,2026-05-07 07:56:26,T-Shirt,Fashion,800,3,2400,Chennai,UPI
+2c11cf22-1590-4586-9180-eea6603d1858,2026-04-17 10:47:26,Laptop,Electronics,75000,2,150000,Bangalore,Credit Card
+f6869958-6928-4558-b83a-4dc8f33515ee,2026-05-01 04:33:26,Monitor,Electronics,15000,2,30000,Chennai,Cash
+f31b6f8b-5cdd-487a-b1a4-57c90652220d,2026-05-08 03:35:26,Jeans,Fashion,1800,4,7200,Bangalore,Debit Card
+e491b2be-5ac2-4ea3-b81f-3dd28ea5d5c3,2026-04-21 16:04:26,Headphones,Electronics,5000,4,20000,Delhi,Debit Card
+637fea30-eb6a-4ce4-9e7b-631d9e5e43a3,2026-04-05 00:59:26,Keyboard,Electronics,2000,1,2000,Chennai,Debit Card
+dec5c9a4-7494-468d-ae3a-d7ad3788736d,2026-03-09 12:23:26,Phone,Electronics,30000,3,90000,Chennai,Debit Card
+fdeafcc1-3d12-45de-9d13-9caea1bfc2cc,2026-03-16 03:40:26,Jeans,Fashion,1800,4,7200,Bangalore,Credit Card
+8459737d-1799-4b25-beff-b7745fb006de,2026-04-05 12:13:26,Shoes,Fashion,2500,2,5000,Chennai,Credit Card
+83e1ddb4-7c21-4fa3-86f2-27cda9b6939f,2026-04-06 03:41:26,Jeans,Fashion,1800,1,1800,Bangalore,Cash
+503f21e3-0b8d-412c-83ef-538ee022c2f3,2026-03-19 23:28:26,Headphones,Electronics,5000,4,20000,Pune,Credit Card
+1a9eca64-4695-4418-a9fb-982ba0068f13,2026-04-15 16:33:26,Keyboard,Electronics,2000,2,4000,Bangalore,Cash
+5971af7d-c777-4d0e-b9d2-1a88949f1da3,2026-04-27 03:44:26,Mouse,Electronics,1000,4,4000,Hyderabad,UPI
+1a8260f6-b5e1-45f6-b6ba-0afb2dfc913c,2026-04-18 15:55:26,T-Shirt,Fashion,800,4,3200,Chennai,UPI
+90770e00-01c7-4a48-9760-b1d267e95fd0,2026-04-14 01:19:26,T-Shirt,Fashion,800,5,4000,Pune,Credit Card
+134c8a9a-766b-4c52-9d7a-87b75190a450,2026-04-20 08:40:26,Watch,Accessories,5000,5,25000,Pune,Credit Card
+6c7651fc-aa29-40c0-8639-aa8b3a87b770,2026-03-20 03:13:26,Mouse,Electronics,1000,2,2000,Hyderabad,UPI
+19231f9b-35a3-4a04-a530-d46f69cc4aa9,2026-03-06 02:26:26,Jeans,Fashion,1800,5,9000,Bangalore,Credit Card
+50c34c79-79ae-4192-ac32-b2bba1df7c26,2026-04-09 07:16:26,T-Shirt,Fashion,800,4,3200,Pune,Credit Card
+fccf79ab-2b81-44e3-a79a-a0c240da4571,2026-03-10 03:04:26,Laptop,Electronics,75000,3,225000,Pune,Credit Card
+939364f2-7847-40d4-ac58-6e6415a3a5d6,2026-04-19 20:01:26,Jeans,Fashion,1800,1,1800,Mumbai,Credit Card
+d7d0e168-7dee-44ca-9257-92a90d94c181,2026-04-20 00:10:26,Mouse,Electronics,1000,3,3000,Pune,Debit Card
+a07bdb0e-73fc-4ba0-b029-80d5e41a066e,2026-03-03 22:17:26,Laptop,Electronics,75000,2,150000,Pune,Cash
+0aa6c4aa-b7d3-4268-9b5c-717e947dfa4e,2026-03-08 23:49:26,Keyboard,Electronics,2000,5,10000,Chennai,Cash
+196e5fac-01aa-4e24-9da6-4a8bfb45c02a,2026-05-09 20:00:26,Laptop,Electronics,75000,5,375000,Delhi,Cash
+5373a783-087b-40ce-a098-212d4ef65aff,2026-04-27 22:49:26,Shoes,Fashion,2500,2,5000,Pune,Debit Card
+149e5fa8-bf24-4f2a-9fe7-993e7947c5d3,2026-03-26 09:43:26,Laptop,Electronics,75000,1,75000,Hyderabad,Cash
+2246f9c8-e3ec-4548-a63c-b861cffe58ed,2026-03-11 02:50:26,Mouse,Electronics,1000,4,4000,Chennai,UPI
+0013e736-3401-4a1c-880a-63c9727f0209,2026-04-11 17:59:26,Shoes,Fashion,2500,4,10000,Chennai,Cash
+593c1619-ae67-4536-a3cf-f76cbf12d292,2026-05-11 00:07:26,Monitor,Electronics,15000,2,30000,Hyderabad,UPI
+a877c5ba-83a9-4fa4-85c7-9e92a74eddd2,2026-04-26 18:33:26,Shoes,Fashion,2500,3,7500,Delhi,Credit Card
+de236308-d730-4fbf-ad7b-cc897b1977ad,2026-04-12 18:29:26,Keyboard,Electronics,2000,4,8000,Delhi,Debit Card
+9e85e341-99e7-4a9e-acf8-b8a43cf88984,2026-05-01 08:40:26,Laptop,Electronics,75000,2,150000,Chennai,Credit Card
+1eb00e78-1970-4e87-a4a9-b9150ef9f225,2026-04-18 00:49:26,T-Shirt,Fashion,800,4,3200,Mumbai,UPI
+2b56233a-fd26-4988-a971-76b59b5f072c,2026-05-11 05:35:26,Headphones,Electronics,5000,3,15000,Chennai,UPI
+c8145264-c434-4106-9568-5753c66e290f,2026-05-03 23:22:26,Watch,Accessories,5000,4,20000,Bangalore,Debit Card
+d4082e10-fd08-4392-a96e-2397308647c3,2026-04-27 01:58:26,Watch,Accessories,5000,1,5000,Bangalore,Debit Card
+7f4d748e-4f81-40fd-8305-676ca3ab5fe9,2026-03-28 21:02:26,Phone,Electronics,30000,3,90000,Mumbai,Credit Card
+056cc765-c1ef-4310-b49f-ef7ae074a6af,2026-03-03 16:28:26,Jeans,Fashion,1800,1,1800,Mumbai,Debit Card
+9d3a02a9-4512-4d8a-bd65-b434ed3fd36d,2026-04-14 07:39:26,T-Shirt,Fashion,800,2,1600,Chennai,Credit Card
+97156f08-273b-4fb6-ba44-9c93d191bf13,2026-03-29 16:57:26,Jeans,Fashion,1800,2,3600,Chennai,Debit Card
+bf6159b6-b562-429b-bdca-21235354511e,2026-04-21 04:34:26,Keyboard,Electronics,2000,1,2000,Bangalore,UPI
+3f3dc4cf-63af-4e61-baae-a483ef8c9e78,2026-03-07 18:29:26,Laptop,Electronics,75000,5,375000,Hyderabad,UPI
+de07fd7c-b865-4883-bcdc-321030453b6a,2026-04-18 12:12:26,Watch,Accessories,5000,2,10000,Pune,Cash
+e342d781-5c2a-484a-bc7e-aa3358e8ffb4,2026-03-28 22:27:26,Monitor,Electronics,15000,1,15000,Bangalore,Credit Card
+5543046b-c0f0-4f1e-89df-e18b56cafdd3,2026-03-04 06:38:26,T-Shirt,Fashion,800,1,800,Chennai,Credit Card
+c51de991-d7b8-4797-beeb-73dabf2a2b0c,2026-04-09 02:58:26,Shoes,Fashion,2500,5,12500,Delhi,Credit Card
+9b806863-eefc-449c-98b4-4b8956c718c2,2026-04-27 15:36:26,Mouse,Electronics,1000,4,4000,Chennai,Cash
+65dc1fa7-b3cd-4c65-bc30-e3137a68e9de,2026-03-31 21:40:26,Shoes,Fashion,2500,4,10000,Bangalore,Debit Card
+8c1efa88-d889-44f9-90bc-14762fa8c90b,2026-03-19 00:56:26,Mouse,Electronics,1000,5,5000,Delhi,Debit Card
+b3eb1b26-8cc3-480e-9411-bba241f2a06d,2026-04-15 20:12:26,Laptop,Electronics,75000,5,375000,Delhi,Credit Card
+fbb3bc6b-4332-458a-a498-c7c7fb099ef3,2026-04-08 16:01:26,Headphones,Electronics,5000,1,5000,Hyderabad,UPI
+1432a37b-925a-4583-8553-05652067cea8,2026-03-19 07:02:26,Watch,Accessories,5000,2,10000,Chennai,Cash
+0b0384b5-6bc2-4daf-b5ab-9bea92b03aae,2026-04-01 08:39:26,Laptop,Electronics,75000,4,300000,Chennai,UPI
+cd440e4d-233c-4a2d-aeae-a36124230d20,2026-05-10 04:35:26,Headphones,Electronics,5000,4,20000,Hyderabad,Debit Card
+89a27233-6a3c-42b1-8b8e-e9edd23456f4,2026-04-19 00:59:26,Headphones,Electronics,5000,5,25000,Chennai,UPI
+41b817cf-10f1-4d48-9f92-c7488b89e710,2026-04-18 14:11:26,Headphones,Electronics,5000,5,25000,Chennai,Cash
+9818ad79-658d-49e3-8b55-4eef60be8d3b,2026-04-24 08:14:26,Watch,Accessories,5000,2,10000,Chennai,UPI
+cce4b240-a830-45ee-a444-d8ca1fe7e3c6,2026-04-26 08:59:26,Headphones,Electronics,5000,3,15000,Pune,Cash
+297f8ff8-9084-45a4-89ee-254f63915459,2026-04-18 17:04:26,Phone,Electronics,30000,4,120000,Pune,UPI
+527498e5-4db4-4ed7-8156-87f49eb157e5,2026-05-03 14:34:26,Jeans,Fashion,1800,3,5400,Chennai,UPI
+d712443f-d02c-4836-b590-28c54d5d3aa2,2026-03-19 10:48:26,Jeans,Fashion,1800,5,9000,Chennai,Debit Card
+c32447c3-c08d-47c4-b2a9-13a37b5101d6,2026-03-25 19:52:26,Jeans,Fashion,1800,4,7200,Mumbai,Debit Card
+87648229-723b-45a2-9942-7f5e0cb7e406,2026-04-17 09:48:26,Mouse,Electronics,1000,2,2000,Hyderabad,UPI
+f2744693-5014-4149-9fb2-f666f1655f73,2026-04-30 00:56:26,Laptop,Electronics,75000,2,150000,Pune,Cash
+a222c116-8cc9-4d6a-9507-9950f2d944f9,2026-03-10 19:20:26,Mouse,Electronics,1000,2,2000,Bangalore,Credit Card
+6ae5830d-21a5-492b-ae3e-fc78ca9443ac,2026-03-27 00:21:26,Laptop,Electronics,75000,3,225000,Chennai,Credit Card
+939c9053-3c77-493d-b9ad-00b3d7498eb6,2026-04-25 16:48:26,T-Shirt,Fashion,800,2,1600,Delhi,Credit Card
+1471dc57-9d22-4a4b-952a-a31e49523063,2026-04-26 00:11:26,Mouse,Electronics,1000,5,5000,Delhi,Credit Card
+e0e20f43-bb7f-4b60-a79d-d2609d312fef,2026-05-09 07:40:26,Watch,Accessories,5000,1,5000,Pune,Credit Card
+4f46bc5d-6bc0-446e-8ee3-d33de1b8cf64,2026-03-05 04:46:26,Keyboard,Electronics,2000,4,8000,Mumbai,Cash
+f24997d1-b0e8-472a-8e3a-ea87e6511177,2026-03-31 05:54:26,Jeans,Fashion,1800,1,1800,Chennai,Debit Card
+e5d28b98-8565-4f46-823e-326d8a6a848f,2026-03-13 10:23:26,Phone,Electronics,30000,3,90000,Chennai,Debit Card
+18998ea5-9aed-409f-a69f-60379691e7b8,2026-03-20 15:16:26,Watch,Accessories,5000,2,10000,Hyderabad,Debit Card
+cd21be15-8376-4291-a654-ae0e887aea2b,2026-04-05 22:14:26,Laptop,Electronics,75000,4,300000,Chennai,Cash
+f17fb841-83bd-45dc-a890-4d28eff52df2,2026-04-11 02:32:26,Jeans,Fashion,1800,4,7200,Bangalore,UPI
+96a31d9d-a3c3-47ac-b026-81ba5e6be706,2026-04-11 01:34:26,Jeans,Fashion,1800,2,3600,Delhi,Debit Card
+7b9f3fd8-4888-4dd6-9dc2-6e13584b6b7a,2026-05-08 16:44:26,Headphones,Electronics,5000,5,25000,Hyderabad,UPI
+5dc2f998-5cc7-4487-9980-e3fcfdeefd8b,2026-05-02 12:05:26,Mouse,Electronics,1000,1,1000,Pune,Cash
+2b577da8-cdbf-4101-bb57-22108aa41809,2026-03-24 12:04:26,Mouse,Electronics,1000,5,5000,Pune,Debit Card
+ba8f1804-08e6-43d7-8f11-be46817812c8,2026-03-10 02:44:26,Laptop,Electronics,75000,1,75000,Pune,Credit Card
+7750e1c9-dcc7-4c53-9d58-4ab04c0beb12,2026-05-03 06:02:26,Laptop,Electronics,75000,1,75000,Delhi,UPI
+af83b373-138a-4041-b3b0-bd3e4dc718e6,2026-03-19 08:59:26,Monitor,Electronics,15000,1,15000,Hyderabad,Credit Card
+6fafe5a7-1860-476b-b0ef-daf394a5f486,2026-03-25 09:37:26,Jeans,Fashion,1800,2,3600,Mumbai,Credit Card
+af48e213-af6d-4a27-bcab-32a073367e8b,2026-04-02 02:54:26,Headphones,Electronics,5000,2,10000,Delhi,Credit Card
+3b9b6790-25b2-48ff-a021-e22ce9173695,2026-04-03 09:59:26,Watch,Accessories,5000,5,25000,Bangalore,Debit Card
+bfe861b1-c38c-44f5-9f70-c65a9d017b02,2026-04-26 16:43:26,Keyboard,Electronics,2000,5,10000,Pune,UPI
+ba375fbe-073e-485f-a9df-de6e6934c7f9,2026-04-21 13:57:26,Headphones,Electronics,5000,2,10000,Mumbai,Debit Card
+4b49c37b-be17-499f-a012-fc632f6a7f24,2026-03-28 07:59:26,Jeans,Fashion,1800,2,3600,Chennai,UPI
+9310e1d2-5d6c-4f9c-8d6f-910dbd8207c3,2026-04-23 22:07:26,T-Shirt,Fashion,800,2,1600,Chennai,Credit Card
+079017b5-9f6b-4533-be60-c870458dc314,2026-03-08 04:20:26,Watch,Accessories,5000,5,25000,Hyderabad,Credit Card
+482dd78d-f991-41f6-a12e-653193f2333d,2026-03-26 06:07:26,Jeans,Fashion,1800,2,3600,Bangalore,Cash
+b44bfa18-afe3-4664-bcf4-bad6e5a34278,2026-04-09 13:36:26,Monitor,Electronics,15000,4,60000,Pune,UPI
+e3bf900b-86bb-4904-b5a7-91d6febcbe13,2026-04-08 08:22:26,Keyboard,Electronics,2000,2,4000,Pune,Credit Card
+ca83faf1-cb1f-47e7-91ca-51ed095b1f5d,2026-04-24 11:50:26,Headphones,Electronics,5000,2,10000,Hyderabad,Credit Card
+972e0aaa-e80d-4295-838c-844fa3e98304,2026-05-08 16:50:26,Jeans,Fashion,1800,1,1800,Chennai,Cash
+783e871c-541c-4fb9-ac51-2b1f20fa46ee,2026-05-02 16:15:26,Phone,Electronics,30000,5,150000,Mumbai,Cash
+fc698cc5-14ab-47d5-9dcc-22ace2fbd4f4,2026-04-08 23:54:26,Headphones,Electronics,5000,1,5000,Delhi,UPI
+2c258c21-232d-48d4-b196-eb1a2604720f,2026-04-05 08:38:26,T-Shirt,Fashion,800,2,1600,Pune,Credit Card
+9b99e736-ca58-47c9-9ff3-daa4436ce525,2026-04-18 23:50:26,Headphones,Electronics,5000,4,20000,Mumbai,Debit Card
+a0b6b10a-ef0b-4d9d-92ed-ee050e04576e,2026-03-04 02:59:26,Jeans,Fashion,1800,2,3600,Mumbai,Credit Card
+c5148a30-b6a5-4607-8d2d-dbb0dd623567,2026-04-22 01:43:26,Keyboard,Electronics,2000,1,2000,Bangalore,Debit Card
+d74d0e9f-028b-4e3f-b910-85587add37c3,2026-05-06 01:57:26,T-Shirt,Fashion,800,4,3200,Chennai,UPI
+00cd02f2-3b9b-4cb2-a828-2e8dfd8fa446,2026-03-21 16:38:26,Jeans,Fashion,1800,5,9000,Hyderabad,Cash
+ae6af51e-8706-47c8-8889-cf3aece60dd8,2026-04-15 15:11:26,Monitor,Electronics,15000,5,75000,Hyderabad,Debit Card
+d50beb60-2b1c-4a42-8a5f-340d1f063484,2026-03-31 20:53:26,Headphones,Electronics,5000,3,15000,Delhi,UPI
+7ea2a1b3-4077-41b2-acf9-4d2611a52ab0,2026-04-09 10:57:26,Keyboard,Electronics,2000,3,6000,Hyderabad,Credit Card
+ca18e5a7-b580-4a95-9d46-73959a728b4d,2026-03-24 09:18:26,Mouse,Electronics,1000,2,2000,Bangalore,UPI
+06ba5553-da23-4893-a9f0-ffbc10548589,2026-03-27 09:03:26,Shoes,Fashion,2500,1,2500,Delhi,UPI
+fa892a9b-b823-421a-b365-ec2e52eaa5a3,2026-04-24 14:14:26,T-Shirt,Fashion,800,4,3200,Hyderabad,Credit Card
+94330bac-2bac-46c9-bd4e-83d131ccb035,2026-03-17 23:28:26,Monitor,Electronics,15000,5,75000,Hyderabad,Cash
+84cca187-a4b6-4810-b553-1ad346601410,2026-03-04 05:52:26,Jeans,Fashion,1800,3,5400,Chennai,UPI
+e1216dd1-5a7b-49b4-a013-06282a580325,2026-04-30 19:59:26,Watch,Accessories,5000,1,5000,Mumbai,Cash
+52b150e7-eee1-44ba-bd09-b9079f5743d1,2026-03-28 07:42:26,Phone,Electronics,30000,3,90000,Hyderabad,Debit Card
+432503df-12fc-4b78-80cb-4a290e152882,2026-03-25 23:39:26,Watch,Accessories,5000,2,10000,Delhi,Debit Card
+4fde08e8-5af1-4c01-af61-cc24d42ead23,2026-04-20 09:47:26,Laptop,Electronics,75000,4,300000,Chennai,Cash
+9f0698c5-b5b8-4c0a-a363-ff96b21c9253,2026-03-30 07:40:26,Shoes,Fashion,2500,1,2500,Delhi,UPI
+9debe71c-ae21-4dc3-830f-613f145d2a1f,2026-04-18 03:55:26,Phone,Electronics,30000,5,150000,Delhi,UPI
+bfd4d6ae-5d6c-45e3-aca1-0d925612ce11,2026-04-26 18:57:26,Jeans,Fashion,1800,5,9000,Mumbai,Credit Card
+203fe908-c769-4773-8bfb-ee5f792c2bd0,2026-04-28 22:23:26,Monitor,Electronics,15000,2,30000,Bangalore,Debit Card
+85f05892-2ee1-4347-a860-b08f36e4dfb0,2026-05-07 19:39:26,Jeans,Fashion,1800,5,9000,Bangalore,Cash
+dd590e57-ee0c-4f2b-94ff-dd58f0625675,2026-03-29 14:08:26,Headphones,Electronics,5000,2,10000,Pune,Cash
+8723c1a7-db97-4568-a214-dfbda0986b07,2026-04-06 22:16:26,Keyboard,Electronics,2000,4,8000,Mumbai,Debit Card
+700fa5e5-137d-464a-9193-073a141b71b8,2026-04-05 21:10:26,Laptop,Electronics,75000,1,75000,Bangalore,UPI
+e28492dd-22f0-4f17-8158-9c828f608f78,2026-03-03 13:15:26,Shoes,Fashion,2500,5,12500,Hyderabad,Cash
+5a63aef6-7e0a-42d5-99ac-7a5b0b6e4add,2026-03-26 12:30:26,Headphones,Electronics,5000,3,15000,Chennai,Cash
+37f95f42-c239-4050-a5e5-0271dff34fb8,2026-03-15 05:00:26,Mouse,Electronics,1000,1,1000,Pune,UPI
+66f506fe-0d97-4a8d-83d5-8b92a740be32,2026-05-04 23:15:26,Headphones,Electronics,5000,4,20000,Delhi,Credit Card
+027bb3bc-624e-4b47-9f9a-4540a3d86b8b,2026-04-27 20:23:26,Watch,Accessories,5000,4,20000,Hyderabad,Cash
+4afba992-fbce-40a7-a7a0-6ad8cb0cd882,2026-05-10 06:26:26,Shoes,Fashion,2500,3,7500,Delhi,Credit Card
+647fd340-4b30-45d2-be05-cdaf72bc2e55,2026-03-31 13:28:26,T-Shirt,Fashion,800,5,4000,Chennai,UPI
+636b4ae6-8935-4aa8-8e4f-2904ed795fed,2026-04-29 08:22:26,Headphones,Electronics,5000,4,20000,Delhi,Cash
+49623312-ba5a-4b7b-a68b-039dc213f40a,2026-03-24 05:00:26,Shoes,Fashion,2500,4,10000,Hyderabad,UPI
+d118703f-4ac5-4300-85f3-77e1723e40ea,2026-03-18 12:35:26,Shoes,Fashion,2500,2,5000,Pune,Debit Card
+2d7addba-2165-44ef-9b71-77bf531b9337,2026-04-07 00:29:26,Phone,Electronics,30000,3,90000,Hyderabad,Debit Card
+edec08e4-a5e9-418b-923f-fb19c94e3cc3,2026-04-03 22:02:26,Keyboard,Electronics,2000,1,2000,Mumbai,Credit Card
+7fa269d1-37c9-4198-8654-78226793ddf1,2026-03-22 20:12:26,T-Shirt,Fashion,800,3,2400,Pune,Debit Card
+5dda8283-2765-4d0c-987e-7b541751690b,2026-04-30 23:27:26,Shoes,Fashion,2500,3,7500,Hyderabad,Cash
+c3c89d1a-5115-495c-89d4-d50dd2adbe50,2026-03-23 12:17:26,Laptop,Electronics,75000,3,225000,Bangalore,Credit Card
+dbc7a404-04f2-4b6e-a466-9b032da52f45,2026-03-29 00:58:26,Mouse,Electronics,1000,3,3000,Pune,Credit Card
+9dddd47c-0618-4b78-ba8c-b2e2d69da681,2026-03-08 15:58:26,Phone,Electronics,30000,3,90000,Chennai,Credit Card
+295e0686-4889-42d3-9b12-63923b6e7280,2026-05-08 00:17:26,Monitor,Electronics,15000,3,45000,Bangalore,Credit Card
+48423036-28fc-431b-b09a-c2a102a06336,2026-05-09 11:11:26,Monitor,Electronics,15000,2,30000,Pune,Cash
+2e689667-b846-420f-8f8c-b75b31391405,2026-03-11 04:59:26,Laptop,Electronics,75000,4,300000,Delhi,Credit Card
+0e74a79b-a341-4582-8112-9692c03d6b47,2026-03-17 05:01:26,Watch,Accessories,5000,4,20000,Bangalore,Debit Card
+5cfb6f72-2e8e-4f0c-92a7-7157c0307031,2026-03-03 23:59:26,Jeans,Fashion,1800,2,3600,Chennai,Credit Card
+8b9db262-c343-4e90-a14d-6b335a40606b,2026-04-20 00:29:26,T-Shirt,Fashion,800,4,3200,Hyderabad,Cash
+961fde0d-1908-46cb-9fb4-de235498964d,2026-04-01 22:51:26,Mouse,Electronics,1000,3,3000,Hyderabad,Cash
+926b0b56-a596-45ab-99b8-8cdcabf551c7,2026-03-29 05:10:26,Mouse,Electronics,1000,4,4000,Pune,Cash
+47d66b46-339a-404d-8f59-f7b1df656507,2026-03-13 07:02:26,Phone,Electronics,30000,3,90000,Hyderabad,Credit Card
+b3da3b25-467a-46d9-8f69-e1179ebba739,2026-04-01 09:33:26,Watch,Accessories,5000,4,20000,Mumbai,Credit Card
+abb70686-d84a-419a-8d75-a8238a4f5a5b,2026-04-30 21:04:26,T-Shirt,Fashion,800,1,800,Bangalore,Credit Card
+3e2a7bc7-83ef-4c32-ac54-bf6f558f0a7e,2026-03-17 08:13:26,Headphones,Electronics,5000,4,20000,Delhi,Debit Card
+c9271d59-5ee4-4280-81c1-57aae5b610e9,2026-04-04 14:07:26,Headphones,Electronics,5000,2,10000,Delhi,Cash
+5810d4b3-c28b-45dc-88c2-9769a699a772,2026-04-28 12:24:26,Keyboard,Electronics,2000,5,10000,Chennai,Cash
+f1993b3c-ce8c-4634-bb20-79a3c6603a75,2026-03-15 03:06:26,Shoes,Fashion,2500,1,2500,Bangalore,Cash
+dd442629-2b74-4fd8-965f-a97da9e6e81d,2026-04-18 16:22:26,Watch,Accessories,5000,2,10000,Bangalore,Debit Card
+741cb8a5-2894-464c-a6c5-75e5fdf61e5b,2026-04-10 10:30:26,T-Shirt,Fashion,800,4,3200,Hyderabad,Debit Card
+a91b7d99-f6f8-42e5-bdc2-1ca9edfedd15,2026-03-09 07:27:26,Headphones,Electronics,5000,2,10000,Chennai,UPI
+810fd4ac-1826-4c9f-92ed-e6b9ac8bcda0,2026-05-05 12:08:26,Shoes,Fashion,2500,1,2500,Mumbai,Cash
+cbfdfaa1-5c1e-474d-a5c1-e0358e369ffa,2026-05-07 10:40:26,Keyboard,Electronics,2000,3,6000,Hyderabad,Cash
+ba740a0e-5672-4d7e-b3b9-64b26e5fa17c,2026-04-30 09:53:26,T-Shirt,Fashion,800,4,3200,Chennai,UPI
+fd04a7f8-13a2-474b-a149-994d5e5b28b3,2026-03-23 18:11:26,Jeans,Fashion,1800,4,7200,Hyderabad,Cash
+27f3ab38-5e51-499b-8790-73c89f4879af,2026-03-08 21:17:26,Phone,Electronics,30000,1,30000,Mumbai,Debit Card
+415033d1-132e-4296-a6d8-0e9215db177f,2026-05-10 00:05:26,T-Shirt,Fashion,800,2,1600,Hyderabad,UPI
+ef8e0dcf-f027-4907-bb15-d4651a8e9222,2026-03-06 17:46:26,Watch,Accessories,5000,2,10000,Hyderabad,Debit Card
+9315ce70-5507-411a-bf30-dee6974f9163,2026-04-08 06:10:26,Mouse,Electronics,1000,4,4000,Bangalore,Credit Card
+83febe95-7ca7-4ebf-991c-6c7d9e24f01a,2026-04-02 13:25:26,Shoes,Fashion,2500,3,7500,Delhi,Credit Card
+9586c8ae-50a8-439b-88ec-9dbbbf2e546e,2026-05-04 10:06:26,Shoes,Fashion,2500,5,12500,Bangalore,Debit Card
+9980dccc-a16c-4cab-94e2-9e21f607e64e,2026-03-22 06:57:26,Keyboard,Electronics,2000,2,4000,Hyderabad,Credit Card
+cfb513bc-3da1-4ddd-b762-ebea05fd57eb,2026-03-24 09:58:26,T-Shirt,Fashion,800,1,800,Hyderabad,Debit Card
+284fd405-8a68-438f-afd8-887389fadbef,2026-03-12 04:09:26,Monitor,Electronics,15000,5,75000,Chennai,Cash
+ee444e17-9789-4255-938e-f1569d7445a7,2026-04-11 01:26:26,T-Shirt,Fashion,800,1,800,Hyderabad,Credit Card
+c2127cef-333c-4cd0-832b-d369f94c9cda,2026-04-06 17:12:26,Laptop,Electronics,75000,1,75000,Pune,Debit Card
+c4cdea60-ef0a-47df-9477-240a1a7836dd,2026-05-03 19:52:26,Monitor,Electronics,15000,3,45000,Pune,Credit Card
+f86779c1-e7e8-42c0-831d-35cd5b9ca1c6,2026-04-03 02:59:26,Laptop,Electronics,75000,2,150000,Bangalore,Debit Card
+4782ef0a-08e2-40e1-b88c-4e91f1989acb,2026-03-24 14:13:26,Keyboard,Electronics,2000,4,8000,Bangalore,Cash
+dfe6bb17-2431-4bca-8d90-497d6f9b0695,2026-03-08 13:02:26,T-Shirt,Fashion,800,4,3200,Chennai,Debit Card
+b03e43d2-a7bd-43d7-aa7b-850f7c27525d,2026-03-27 12:29:26,Mouse,Electronics,1000,5,5000,Hyderabad,Credit Card
+d0ef67b2-394b-44e4-bffb-0ca9e164c237,2026-04-19 17:49:26,Shoes,Fashion,2500,3,7500,Chennai,Debit Card
+55e3e7fc-4149-42c8-8cfb-24bdd90d7082,2026-03-27 06:44:26,Keyboard,Electronics,2000,3,6000,Pune,Credit Card
+b1c98bdc-fb08-412b-8619-cfc64bb22417,2026-03-16 20:58:26,Monitor,Electronics,15000,1,15000,Bangalore,Cash
+51c07dc9-01bb-4575-86f1-0b932fde4054,2026-03-24 20:16:26,Headphones,Electronics,5000,4,20000,Chennai,UPI
+deb4663e-708a-4de6-9a90-d46a75bad5ed,2026-03-06 06:25:26,Keyboard,Electronics,2000,1,2000,Hyderabad,Cash
+813ee8dc-a695-4a63-818b-5885bbdd7e1b,2026-03-19 17:28:26,Watch,Accessories,5000,4,20000,Bangalore,UPI
+50095955-fb6e-4727-9f85-3ecba620ffc4,2026-03-30 18:45:26,Mouse,Electronics,1000,1,1000,Pune,UPI
+2e546bbe-4790-48c0-b077-071f7450850e,2026-04-09 01:37:26,Monitor,Electronics,15000,2,30000,Chennai,Cash
+9d302b68-d287-4500-91c7-d65bc45db5ee,2026-03-14 19:53:26,Jeans,Fashion,1800,3,5400,Chennai,Credit Card
+38d5637e-54c4-499a-8f27-6f338b33a2cc,2026-03-24 05:49:26,Headphones,Electronics,5000,3,15000,Mumbai,Credit Card
+5c4283e4-a78f-4109-98bd-5acb5091f8cd,2026-04-09 12:06:26,Phone,Electronics,30000,3,90000,Chennai,UPI
+050b8d2f-e095-4eb6-a72d-78cdf2e0aa1a,2026-03-05 11:57:26,Monitor,Electronics,15000,2,30000,Hyderabad,UPI
+7f6f2c31-9c5f-4e08-947e-b4867b962a30,2026-04-17 09:28:26,Monitor,Electronics,15000,4,60000,Mumbai,Credit Card
+a483aeae-009d-470a-89a4-b4fb2b9343e9,2026-04-11 10:40:26,Shoes,Fashion,2500,3,7500,Hyderabad,Cash
+1e4697a6-251e-43c7-a1ec-cdd710c135a4,2026-04-01 22:39:26,Headphones,Electronics,5000,5,25000,Hyderabad,Debit Card
+5c884863-40db-4fef-9725-ef1193b0fcc9,2026-03-06 10:48:26,T-Shirt,Fashion,800,5,4000,Hyderabad,Credit Card
+ea8eb44f-1cf2-4e42-9f93-48c226c34f92,2026-05-07 22:22:26,Headphones,Electronics,5000,3,15000,Pune,Credit Card
+ac8b797e-e774-4429-ad6d-6719c3aa231d,2026-03-25 15:55:26,T-Shirt,Fashion,800,3,2400,Pune,Credit Card
+b2417743-6013-442d-8a3a-71976aa1788a,2026-04-22 16:22:26,Monitor,Electronics,15000,4,60000,Bangalore,Cash
+1b1cb34a-ec80-456a-8449-61e2aca4de8a,2026-03-25 03:32:26,Shoes,Fashion,2500,3,7500,Delhi,UPI
+2c05462d-def8-488a-8d5d-b43f8471f393,2026-05-06 18:06:26,Keyboard,Electronics,2000,4,8000,Hyderabad,Cash
+1c735a7c-508c-4c42-93af-9eca000645fa,2026-05-02 02:49:26,Phone,Electronics,30000,4,120000,Bangalore,Credit Card
+129a10bb-1a85-4270-8fca-4e3f07cd55e6,2026-04-19 22:07:26,Headphones,Electronics,5000,2,10000,Delhi,Debit Card
+905a8ef8-7fbe-4bed-a07b-b361cedc6d51,2026-04-16 23:10:26,Shoes,Fashion,2500,1,2500,Hyderabad,UPI
+78e1afa0-4ebb-408a-95ec-0a1c7f53fac0,2026-03-27 16:01:26,Shoes,Fashion,2500,1,2500,Chennai,Cash
+02369901-b24f-4750-94a7-2cbfb9ad8782,2026-03-13 01:11:26,Watch,Accessories,5000,1,5000,Bangalore,Credit Card
+150c13e2-01c9-4d00-b8b8-be210ee2e818,2026-03-11 13:32:26,Headphones,Electronics,5000,5,25000,Mumbai,UPI
+e4a95ef8-bc60-460a-b11a-fc8e3863912b,2026-03-06 09:50:26,Laptop,Electronics,75000,3,225000,Delhi,UPI
+704f4305-5752-4601-be79-5f0f0e6008e3,2026-03-23 23:22:26,Monitor,Electronics,15000,5,75000,Pune,Cash
+9b6caba6-f6fc-4528-a224-6a1a152216d4,2026-03-19 04:08:26,Laptop,Electronics,75000,5,375000,Delhi,Debit Card
+b2959d1c-640d-4478-929e-747460287a5b,2026-03-10 11:03:26,T-Shirt,Fashion,800,4,3200,Mumbai,Cash
+ce0930a9-ca59-48c3-8f6e-f10b34e82460,2026-03-08 03:37:26,Monitor,Electronics,15000,5,75000,Delhi,UPI
+7a0cd9a9-5b7c-45f0-967d-73168049fef4,2026-03-26 18:23:26,Monitor,Electronics,15000,5,75000,Delhi,Credit Card
+bf05078e-19e8-48b5-b7b3-7b07a5f3bf33,2026-05-08 09:55:26,Headphones,Electronics,5000,3,15000,Pune,Debit Card
+7d2567b4-3463-4f2a-bcab-16a337bb052a,2026-05-06 21:21:26,T-Shirt,Fashion,800,1,800,Mumbai,Debit Card
+064536b3-062f-4468-b37a-a31935017f14,2026-04-03 08:37:26,Headphones,Electronics,5000,1,5000,Pune,Credit Card
+d14032f5-6cd2-4a41-a1c3-ceffe4f33c0c,2026-03-27 00:10:26,Phone,Electronics,30000,4,120000,Delhi,UPI
+22e70418-1b30-404d-8ae2-090506e6c630,2026-03-24 05:25:26,Laptop,Electronics,75000,2,150000,Hyderabad,Debit Card
+5f688775-2f75-4569-b0d1-a116178cf7f0,2026-03-09 02:21:26,Keyboard,Electronics,2000,1,2000,Pune,Cash
+e844650d-9810-4959-873e-29149a337536,2026-04-30 23:30:26,Shoes,Fashion,2500,1,2500,Pune,Cash
+dfb53f7e-0180-4054-abac-70fae84abdca,2026-04-17 23:31:26,Headphones,Electronics,5000,5,25000,Mumbai,UPI
+1be90c77-29f4-4b52-8eea-1b83d72d2ec4,2026-03-06 19:35:26,Mouse,Electronics,1000,1,1000,Pune,Cash
+5b257160-03eb-4292-aa54-4f412a90a0ea,2026-04-06 06:52:26,Mouse,Electronics,1000,5,5000,Mumbai,Cash
+96e7a6ae-92c7-43d7-9e3e-b2b8fdecae9a,2026-03-13 14:33:26,Monitor,Electronics,15000,2,30000,Chennai,Credit Card
+b2da73db-b24f-4bee-ace5-873daeff509e,2026-04-02 08:33:26,Jeans,Fashion,1800,5,9000,Mumbai,Credit Card
+695fc2bf-90f8-4adb-8d8f-886f0b421821,2026-04-01 01:07:26,Headphones,Electronics,5000,2,10000,Mumbai,Debit Card
+cb28b348-b4a4-43ea-933f-a16879c48f39,2026-04-28 11:37:26,Headphones,Electronics,5000,5,25000,Mumbai,Debit Card
+66a960e0-81f3-4129-8acc-1f8d83f304f7,2026-04-28 04:56:26,T-Shirt,Fashion,800,4,3200,Bangalore,UPI
+0f3fbf64-2adb-4124-ab99-b53ca2863a66,2026-04-22 02:22:26,Headphones,Electronics,5000,2,10000,Delhi,Credit Card
+5b1d17ca-7f12-43d0-9c5f-8491b8e204a5,2026-03-16 00:57:26,Shoes,Fashion,2500,2,5000,Mumbai,Debit Card
+dfe8ae67-d5ef-40b0-b800-99fa3fe7c5c9,2026-03-31 22:44:26,Watch,Accessories,5000,1,5000,Pune,Debit Card
+872d89da-1534-404f-b0f6-f7e9187fe673,2026-03-27 20:55:26,Headphones,Electronics,5000,3,15000,Chennai,Cash
+a47b9b48-6f95-4fed-bd11-aeb75e731b7f,2026-04-06 22:49:26,Shoes,Fashion,2500,1,2500,Mumbai,UPI
+14dd2713-a958-48b5-973a-1d4337839482,2026-03-20 09:17:26,Headphones,Electronics,5000,5,25000,Pune,Debit Card
+9de99ac8-89dc-47e2-b9cd-981cc06bfb0e,2026-03-31 22:42:26,Monitor,Electronics,15000,4,60000,Pune,UPI
+c7cedd08-c3af-475d-8ed4-004289398f3e,2026-04-24 12:04:26,Jeans,Fashion,1800,2,3600,Mumbai,Cash
+b5af23c8-ce34-4ddb-8691-82c3d6d0e4bc,2026-03-24 00:16:26,Mouse,Electronics,1000,5,5000,Pune,UPI
+0cefc15e-3ad9-4aa0-81c6-e5c90b8e243a,2026-03-06 09:07:26,Laptop,Electronics,75000,2,150000,Mumbai,Cash
+27809627-831f-4d14-878d-0afde969ff0a,2026-05-06 09:31:26,Watch,Accessories,5000,5,25000,Delhi,Cash
+e3a8c8a7-cd74-4b5d-ba23-8f3f7d939a55,2026-04-28 22:36:26,T-Shirt,Fashion,800,1,800,Hyderabad,Credit Card
+c007987c-4595-430b-9037-393a7a4906bb,2026-05-06 13:09:26,T-Shirt,Fashion,800,3,2400,Delhi,UPI
+f93f7e17-cf09-4c98-8345-af0683234bfa,2026-05-03 06:37:26,Mouse,Electronics,1000,5,5000,Delhi,Credit Card
+a3f4c03b-53e0-436f-9cc3-d21c962d5d0a,2026-03-08 06:10:26,Mouse,Electronics,1000,3,3000,Hyderabad,UPI
+77f50012-bd1c-4a20-9e20-4c81ed07f962,2026-03-14 22:35:26,Monitor,Electronics,15000,4,60000,Mumbai,Credit Card
+a89f647e-bf27-475b-9d3a-90190b89da30,2026-03-29 14:53:26,Laptop,Electronics,75000,2,150000,Pune,Cash
+4d80b6aa-a610-4656-9631-b857caa8631c,2026-04-20 06:29:26,T-Shirt,Fashion,800,3,2400,Pune,Debit Card
+d70cad97-5dd0-433e-ad63-9ddecd3376f1,2026-03-28 07:52:26,Mouse,Electronics,1000,3,3000,Mumbai,Debit Card
+2ab3688e-3889-4cb2-941c-64e971157b4d,2026-04-28 17:55:26,T-Shirt,Fashion,800,3,2400,Chennai,Debit Card
+9a9a6bb2-55b0-437f-99d2-a7ead71e7e1d,2026-04-25 08:07:26,Keyboard,Electronics,2000,1,2000,Chennai,UPI
+e65d193e-d4e1-437b-8255-14e406a93ec5,2026-03-13 10:12:26,Shoes,Fashion,2500,5,12500,Pune,Debit Card
+791c9248-1c69-42a6-93fb-114764f42fc4,2026-05-08 15:22:26,Mouse,Electronics,1000,4,4000,Mumbai,UPI
+ced2185e-1ab8-431c-8863-9701493852dd,2026-04-27 13:49:26,Phone,Electronics,30000,3,90000,Chennai,UPI
+0b9b9602-3f68-42d3-9b90-84a19018d634,2026-03-20 14:09:26,Monitor,Electronics,15000,5,75000,Bangalore,Cash
+8c4efaae-ce54-4028-b571-e0725d46599f,2026-05-01 05:51:26,Mouse,Electronics,1000,2,2000,Mumbai,UPI
+e228a70a-f46d-444a-8dce-c91e403b020b,2026-04-08 04:16:26,Keyboard,Electronics,2000,5,10000,Mumbai,UPI
+e60ca593-529f-4619-be6a-2893ac1477f9,2026-03-16 00:11:26,Keyboard,Electronics,2000,1,2000,Delhi,Debit Card
+2748cc99-eb05-4a25-b84a-504d194f3c9e,2026-04-27 14:00:26,Jeans,Fashion,1800,5,9000,Pune,Credit Card
+c7ab3ee1-fcd4-4515-b7b9-deec49ff1290,2026-03-28 15:10:26,Keyboard,Electronics,2000,3,6000,Mumbai,UPI
+a6d152eb-6480-448e-b89e-a669644501ca,2026-04-30 12:31:26,Keyboard,Electronics,2000,5,10000,Hyderabad,Debit Card
+b3be031d-9bd8-4816-add0-a428c1aed3b5,2026-04-21 06:56:26,Laptop,Electronics,75000,4,300000,Delhi,Cash
+0cfc7fc8-a7b4-49ac-874c-15bca49247e8,2026-05-06 05:24:26,Shoes,Fashion,2500,3,7500,Mumbai,Debit Card
+6ea6c688-3256-4f8e-8b58-f73797e36930,2026-03-15 05:00:26,Watch,Accessories,5000,1,5000,Chennai,Cash
+d296803b-4026-4d2c-b4fb-f5c028b39529,2026-05-05 09:45:26,Jeans,Fashion,1800,1,1800,Mumbai,UPI
+7beffb5c-bdca-4827-bb62-8eea9b799568,2026-03-09 11:34:26,Laptop,Electronics,75000,3,225000,Hyderabad,Credit Card
+78593c7d-02ba-4fa7-9b30-021cf7691370,2026-04-01 02:33:26,Mouse,Electronics,1000,1,1000,Pune,UPI
+b712c29d-9754-4afb-b723-7bfef91e0ca0,2026-05-09 05:31:26,Mouse,Electronics,1000,5,5000,Mumbai,Cash
+8545a278-f840-4741-af6d-0845c2feddc6,2026-04-01 23:34:26,Shoes,Fashion,2500,5,12500,Hyderabad,Credit Card
+f4b60221-39b0-468c-8bfd-339dc8f2f417,2026-04-21 18:14:26,Phone,Electronics,30000,5,150000,Pune,UPI
+1fd0df9e-e682-4883-8669-278e4b00ef60,2026-04-29 22:11:26,Watch,Accessories,5000,4,20000,Chennai,Credit Card
+5865c152-c132-41fa-93e5-67c0b7ccb214,2026-03-03 14:22:26,Keyboard,Electronics,2000,2,4000,Chennai,Debit Card
+29c2dc0e-f596-4b09-80fc-77f318a41b5e,2026-03-10 00:34:26,Phone,Electronics,30000,3,90000,Delhi,Debit Card
+e3eb27e2-2c40-437b-991d-bd365a0562fa,2026-03-27 09:26:26,Phone,Electronics,30000,2,60000,Mumbai,Credit Card
+6a847be3-744b-46e6-932b-32ad457dc3ec,2026-04-08 13:00:26,Phone,Electronics,30000,3,90000,Pune,UPI
+d1dc6c2a-2eac-43cc-986d-672126f56743,2026-04-27 16:08:26,Headphones,Electronics,5000,4,20000,Pune,UPI
+7e7f14bc-febe-468d-bfa1-7801863f3691,2026-04-14 13:00:26,Jeans,Fashion,1800,2,3600,Chennai,Cash
+3d0a67b9-6fad-4471-95f7-4cd701fad78b,2026-04-11 03:25:26,Mouse,Electronics,1000,2,2000,Hyderabad,Cash
+a694679f-2faa-4f0b-954d-8ca8dc422a98,2026-04-16 17:22:26,Phone,Electronics,30000,2,60000,Chennai,UPI
+27249612-5708-4776-9d78-69dd14f427a2,2026-03-27 08:33:26,Headphones,Electronics,5000,3,15000,Mumbai,Cash
+d6191ce9-e5e3-44b1-bc85-cb58f445173c,2026-03-26 13:25:26,T-Shirt,Fashion,800,5,4000,Mumbai,Credit Card
+c758c8b5-6af6-459c-a87b-98847d880c05,2026-05-10 08:39:26,Laptop,Electronics,75000,5,375000,Chennai,UPI
+cf48fb1f-d3a7-4699-baab-760319637940,2026-04-03 17:35:26,Keyboard,Electronics,2000,2,4000,Pune,UPI
+1aee5a6e-f0de-4c6d-9ab8-7d04007cbb95,2026-05-02 06:39:26,Shoes,Fashion,2500,4,10000,Bangalore,Debit Card
+53a4ffd5-4670-4206-9320-61b3ce8fb610,2026-03-03 09:37:26,Mouse,Electronics,1000,4,4000,Delhi,Cash
+9e7a53df-dfbb-49f2-9172-f7ed874b88b8,2026-03-29 02:06:26,Monitor,Electronics,15000,2,30000,Hyderabad,Credit Card
+9ec2ad0e-c4f9-44cf-b709-faed4e9ae854,2026-04-24 02:16:26,Phone,Electronics,30000,1,30000,Chennai,Cash
+111970b2-1669-4026-bf3d-9e36d4b177df,2026-04-19 05:44:26,Phone,Electronics,30000,3,90000,Chennai,Credit Card
+3b95bf8a-0c11-475d-a272-3852b843f3d8,2026-04-23 23:07:26,Keyboard,Electronics,2000,1,2000,Mumbai,Debit Card
+24dbaeea-c79c-4147-bd55-035a34d27250,2026-05-02 09:53:26,Keyboard,Electronics,2000,4,8000,Delhi,UPI
+1e4106a3-e65e-4eae-9aa1-fe76f90816b0,2026-05-04 02:45:26,Laptop,Electronics,75000,5,375000,Delhi,UPI
+375be2cd-1afa-4a52-83b2-3a8d761d79ef,2026-04-06 11:12:26,Headphones,Electronics,5000,3,15000,Delhi,UPI
+dea9c172-fa0e-4c88-b9da-841df1088635,2026-05-08 14:58:26,T-Shirt,Fashion,800,5,4000,Hyderabad,Credit Card
+2f125cff-e3ab-4937-8298-dc668556b3bf,2026-05-02 03:36:26,Jeans,Fashion,1800,4,7200,Chennai,UPI
+d12bae9c-8eea-436e-8a35-ed2078f67976,2026-04-27 03:27:26,Keyboard,Electronics,2000,1,2000,Chennai,Credit Card
+5a8f3d57-6d83-4227-84ce-bb46f903d861,2026-04-22 06:59:26,Mouse,Electronics,1000,4,4000,Hyderabad,Cash
+381a6e11-ca92-4e08-92d0-cd42d5c8f30d,2026-04-28 08:42:26,Headphones,Electronics,5000,5,25000,Bangalore,Credit Card
+78414140-2ec1-448d-acb2-9bba0fc55e44,2026-04-23 22:11:26,Monitor,Electronics,15000,3,45000,Delhi,Cash
+42f1f6df-0a56-4050-8012-de89931056b6,2026-04-29 17:59:26,T-Shirt,Fashion,800,4,3200,Pune,Credit Card
+6e6eccf5-394f-4fe1-b6c9-575b9c1cc3a4,2026-03-31 07:26:26,Phone,Electronics,30000,2,60000,Pune,Credit Card
+1bfbcded-6ae3-4e9f-85e0-a31fe5a35568,2026-03-14 10:41:26,Keyboard,Electronics,2000,1,2000,Chennai,Cash
+661c7fed-0187-4f99-a76b-ebb22af57d65,2026-03-28 23:30:26,Mouse,Electronics,1000,5,5000,Hyderabad,UPI
+ccd349c3-03f6-40c4-81ed-f14f79834d45,2026-04-02 04:05:26,Laptop,Electronics,75000,3,225000,Delhi,Cash
+4fca62d9-8979-40fb-a771-292eaeaba992,2026-03-04 02:46:26,Laptop,Electronics,75000,2,150000,Bangalore,UPI
+eb6c0de6-4e35-47e5-8c05-9d770017d688,2026-03-22 13:37:26,Keyboard,Electronics,2000,4,8000,Mumbai,Debit Card
+aab9cfda-c52e-4b96-afb0-ef38c63d358a,2026-04-30 11:41:26,T-Shirt,Fashion,800,5,4000,Mumbai,Debit Card
+87cf52ab-da22-4c1f-8ab6-24a80e531bca,2026-04-24 06:41:26,Jeans,Fashion,1800,4,7200,Hyderabad,Debit Card
+df75eeae-5021-405b-9e56-cd02271bb532,2026-03-29 02:31:26,Mouse,Electronics,1000,5,5000,Hyderabad,Debit Card
+49d3ace4-3196-4cc0-b91a-35f7349b1111,2026-03-09 06:25:26,Mouse,Electronics,1000,2,2000,Bangalore,Cash
+436236f5-00a9-4cf9-8ecc-9dc4863f813a,2026-04-24 08:25:26,Laptop,Electronics,75000,1,75000,Bangalore,Credit Card
+0d57e69a-d1dd-4e46-9bdb-e686b1eeb928,2026-03-11 13:23:26,Headphones,Electronics,5000,1,5000,Delhi,Credit Card
+f3e5ca5c-b23b-4547-be45-4e8794524e81,2026-04-02 02:37:26,Keyboard,Electronics,2000,4,8000,Delhi,Credit Card
+ef60f0b4-b00a-4f20-9546-da86c556a392,2026-04-04 06:14:26,Monitor,Electronics,15000,3,45000,Bangalore,Cash
+1fdf8ea6-efa3-4491-8a1b-9d9e34f7025f,2026-04-04 23:52:26,Laptop,Electronics,75000,2,150000,Delhi,Credit Card
+a14b5461-4901-461b-a6a6-a801cdf2ce49,2026-03-28 09:23:26,Laptop,Electronics,75000,2,150000,Chennai,UPI
+96605c57-099e-4827-baea-b0c5dbd62121,2026-04-09 08:42:26,T-Shirt,Fashion,800,3,2400,Bangalore,Credit Card
+8f308c9d-29cb-4774-bb46-d237b42d5eac,2026-03-16 19:23:26,Monitor,Electronics,15000,4,60000,Mumbai,UPI
+07b803e2-5e89-40a4-8e81-8be7a0b6ac7f,2026-04-02 12:50:26,Shoes,Fashion,2500,1,2500,Chennai,Cash
+a8c0693f-9476-47c8-b089-1c75ee678852,2026-05-02 04:54:26,T-Shirt,Fashion,800,4,3200,Mumbai,Cash
+bd8fd439-0077-43c0-afda-896c4fe8746b,2026-05-05 23:53:26,Monitor,Electronics,15000,4,60000,Pune,Credit Card
+3d4a9bd5-03f0-4d07-9ec4-ab8f631dcb04,2026-04-01 17:11:26,Jeans,Fashion,1800,4,7200,Hyderabad,Cash
+61dcf967-4112-4d83-8a50-0974cbefc3ab,2026-05-07 05:18:26,Keyboard,Electronics,2000,5,10000,Mumbai,Debit Card
+f13a1749-1b9d-4e74-9505-650ff15c6594,2026-03-05 00:31:26,Jeans,Fashion,1800,2,3600,Delhi,UPI
+bb028d08-e4f2-4775-b162-dfed3de73b6d,2026-03-21 10:52:26,Mouse,Electronics,1000,4,4000,Pune,Cash
+68e28701-253f-429c-8104-3a0c915bc6d0,2026-03-03 17:03:26,Monitor,Electronics,15000,1,15000,Chennai,Credit Card
+54d071dc-5866-4efb-91bc-ff61a1a90a9d,2026-04-02 11:31:26,Headphones,Electronics,5000,2,10000,Chennai,UPI
+cd1e8c08-9c13-48e5-8a31-5a2bb858e97d,2026-03-17 19:30:26,T-Shirt,Fashion,800,2,1600,Mumbai,Cash
+a0857142-63ef-491d-ad04-d19845d26b7c,2026-03-05 15:54:26,Mouse,Electronics,1000,5,5000,Bangalore,Debit Card
+8f0d9e2f-095e-4009-90ff-c8e4a7296271,2026-04-22 19:40:26,Keyboard,Electronics,2000,2,4000,Bangalore,Credit Card
+c15f0873-040e-4538-a6cf-eb1aa557cff4,2026-05-03 21:21:26,Phone,Electronics,30000,1,30000,Bangalore,Credit Card
+044a0bc4-3255-419f-90e1-ae99bba6f403,2026-03-29 00:35:26,Jeans,Fashion,1800,4,7200,Chennai,Cash
+5b2d4e0e-c3e5-4e0a-9120-529cf64a604d,2026-03-20 11:19:26,Watch,Accessories,5000,5,25000,Bangalore,Debit Card
+6ccba44e-8b11-440f-84ac-f0cab03751dd,2026-04-27 09:10:26,Keyboard,Electronics,2000,1,2000,Pune,Cash
+7b1dd82e-e9f2-4fdf-b1c5-173bbceb0279,2026-04-08 07:04:26,Laptop,Electronics,75000,5,375000,Bangalore,UPI
+c640333d-ef38-4b5a-b727-31e1f309d014,2026-03-21 13:09:26,Shoes,Fashion,2500,5,12500,Delhi,Cash
+eebdde0d-66bf-4f79-b1c1-8c4495a8ac7f,2026-04-09 16:10:26,Monitor,Electronics,15000,4,60000,Hyderabad,Debit Card
+ecf8933f-b10e-47bf-9592-31451088aaca,2026-04-08 17:56:26,Laptop,Electronics,75000,4,300000,Hyderabad,Debit Card
+0c4ec2d4-3c79-4c90-a9e1-3e9ced7248d5,2026-05-09 10:19:26,Monitor,Electronics,15000,1,15000,Mumbai,UPI
+3a95e7c7-688d-43e0-b163-c741a11d3069,2026-05-06 07:42:26,Mouse,Electronics,1000,2,2000,Bangalore,Debit Card
+71ac37b9-8d73-4002-951f-fadaef6fbd12,2026-05-07 02:58:26,Watch,Accessories,5000,5,25000,Mumbai,Credit Card
+bd644a28-84af-41de-976c-0a7c75329895,2026-03-14 19:37:26,Mouse,Electronics,1000,3,3000,Delhi,Cash
+4c1da3bc-432a-4bc0-b0ea-2be4571e9626,2026-04-11 14:29:26,Mouse,Electronics,1000,1,1000,Delhi,UPI
+3d1bb761-5f08-4b23-9917-8f44a668eafb,2026-04-10 10:55:26,Mouse,Electronics,1000,3,3000,Bangalore,UPI
+39a67725-adeb-4fcd-9340-3fb48c1a21a4,2026-03-22 08:15:26,Monitor,Electronics,15000,3,45000,Chennai,Credit Card
+b4b5b32f-88f1-47b9-b8b6-a5c1e35cd1db,2026-05-06 22:28:26,Jeans,Fashion,1800,4,7200,Hyderabad,Cash
+3c5e24da-318b-4aef-8f93-3d5c733bdf57,2026-03-27 09:22:26,Headphones,Electronics,5000,1,5000,Chennai,Debit Card
+06d88a14-1db0-42b3-ad18-89e85474f77c,2026-03-10 15:17:26,Keyboard,Electronics,2000,2,4000,Hyderabad,Cash
+dba21327-0db1-4141-ae58-60ea0e9254ac,2026-03-04 05:38:26,T-Shirt,Fashion,800,3,2400,Mumbai,UPI
+816cad0c-11b6-441b-a314-3f6063aebda0,2026-03-09 23:13:26,Monitor,Electronics,15000,2,30000,Delhi,UPI
+768dbbe0-4431-4255-a016-02d4011320b2,2026-05-03 18:50:26,T-Shirt,Fashion,800,3,2400,Mumbai,Cash
+aeb52709-eef3-4a6b-847e-abba06c0e1fd,2026-04-06 13:06:26,Jeans,Fashion,1800,5,9000,Mumbai,Debit Card
+ccd9367c-09df-4461-aa63-0da2419d3116,2026-03-31 11:47:26,Jeans,Fashion,1800,4,7200,Hyderabad,Debit Card
+4a700a1f-400e-4d57-84b2-0244010ff9cc,2026-04-27 06:04:26,Phone,Electronics,30000,4,120000,Mumbai,UPI
+0d07c961-8719-48b9-aa15-68c5d2b48d98,2026-04-28 06:05:26,Monitor,Electronics,15000,1,15000,Mumbai,Debit Card
+ff06bd77-98e6-43e6-b745-21187cd31bc0,2026-04-10 19:33:26,Phone,Electronics,30000,4,120000,Chennai,Debit Card
+f4342f0b-8074-4c21-9cca-0da1f20e9d82,2026-05-04 22:25:26,Jeans,Fashion,1800,3,5400,Delhi,Debit Card
+82860413-bea7-4f18-a014-c8f944af8d55,2026-03-13 21:27:26,Jeans,Fashion,1800,5,9000,Bangalore,UPI
+3a619f0d-d36c-4a9b-815e-701eba9132ce,2026-03-20 18:12:26,Laptop,Electronics,75000,1,75000,Delhi,Debit Card
+2b342f8e-635a-4f96-aa84-a0ab16dfdff2,2026-03-31 21:31:26,Keyboard,Electronics,2000,4,8000,Bangalore,Credit Card
+f1d4f51b-87b3-46d3-ba08-186c650932ce,2026-04-14 15:17:26,Laptop,Electronics,75000,2,150000,Delhi,Credit Card
+a9d4bda6-242c-4320-8a7e-2a5085b9169b,2026-03-23 02:13:26,Shoes,Fashion,2500,3,7500,Bangalore,Cash
+ed64468e-46b7-4bbb-a6ab-d2f3d3e6a6e2,2026-04-01 10:41:26,Shoes,Fashion,2500,1,2500,Chennai,Debit Card
+9a51877f-24a9-4791-ab76-11db195485b8,2026-03-05 00:49:26,Phone,Electronics,30000,4,120000,Chennai,Cash
+6ad136cc-2f2a-4498-8b9e-828770997483,2026-03-25 21:42:26,Shoes,Fashion,2500,2,5000,Hyderabad,UPI
+58c304a0-8852-4ff0-98ea-506ae72ced2d,2026-03-09 05:02:26,Jeans,Fashion,1800,4,7200,Chennai,Cash
+0b6032a3-78a8-4c2e-a798-f35eb5b04b32,2026-03-27 06:50:26,Phone,Electronics,30000,5,150000,Pune,Cash
+0d8ea082-1e32-4dea-ac1d-90cb09074027,2026-03-06 02:25:26,Shoes,Fashion,2500,2,5000,Mumbai,Debit Card
+8a26213a-183e-4430-a605-8b7533391d57,2026-03-20 08:07:26,Monitor,Electronics,15000,3,45000,Hyderabad,UPI
+288e00fb-378a-4a86-b444-6fafad72245a,2026-03-26 05:41:26,Headphones,Electronics,5000,4,20000,Chennai,Credit Card
+72658e1a-a100-458e-a7c7-c7e0c611a8e4,2026-03-04 19:47:26,Laptop,Electronics,75000,3,225000,Pune,UPI
+e8399cb2-539e-4e63-b9ea-e9a1519078bc,2026-05-11 11:42:26,Mouse,Electronics,1000,1,1000,Pune,Credit Card
+9deabc4f-6879-43bc-b651-16f4cc2214e8,2026-04-30 23:15:26,Mouse,Electronics,1000,3,3000,Pune,Credit Card
+115df8cb-5b57-4363-bc0b-eeedd384c294,2026-03-07 12:23:26,T-Shirt,Fashion,800,4,3200,Pune,Credit Card
+f046661a-afe5-47eb-bd21-15e89134b076,2026-04-10 07:57:26,Laptop,Electronics,75000,1,75000,Delhi,Cash
+848e0d50-d35c-416a-978c-eec853fc7945,2026-03-10 23:05:26,T-Shirt,Fashion,800,5,4000,Hyderabad,Debit Card
+fd8c6740-213d-4708-933c-7f715d18ecf9,2026-04-28 16:48:26,T-Shirt,Fashion,800,2,1600,Pune,UPI
+d6783fb0-36b3-43eb-bb51-6010acc587ea,2026-05-01 12:07:26,Keyboard,Electronics,2000,4,8000,Hyderabad,Debit Card
+e133d857-88e2-4ad4-b13e-232baab54827,2026-03-13 00:17:26,Monitor,Electronics,15000,5,75000,Pune,UPI
+3a381a58-2c2b-42bc-87eb-3ef387c287c7,2026-03-03 10:40:26,Keyboard,Electronics,2000,4,8000,Delhi,Cash
+1f4c761d-51ee-4796-a28c-6e629792c32d,2026-03-28 05:12:26,Phone,Electronics,30000,3,90000,Delhi,UPI
+9046d6e9-39a8-4a2b-ac35-70c22c09aa7e,2026-04-09 16:59:26,Phone,Electronics,30000,4,120000,Pune,Debit Card
+54490202-7878-4f16-8b05-993b02d0be26,2026-04-09 04:26:26,Mouse,Electronics,1000,1,1000,Pune,Debit Card
+752df578-f267-4017-9f44-6c3e700e2bc8,2026-05-07 01:28:26,Headphones,Electronics,5000,3,15000,Delhi,Cash
+95f2b5be-db62-4443-af2f-1e17bba2c6f6,2026-03-19 11:01:26,Mouse,Electronics,1000,5,5000,Delhi,UPI
+6d2f12db-a1cb-4a15-bdd8-ba823c3ae949,2026-03-06 04:54:26,Watch,Accessories,5000,3,15000,Mumbai,Credit Card
+f460efa1-e9bb-4787-a1d5-c77f66455216,2026-04-12 06:21:26,T-Shirt,Fashion,800,3,2400,Chennai,UPI
+cd4aea50-4696-44e7-8fae-7cba60cb15f0,2026-03-08 11:45:26,Shoes,Fashion,2500,4,10000,Bangalore,Credit Card
+60735ba8-6a07-4d50-b0a8-0a51c518edfa,2026-03-31 12:06:26,T-Shirt,Fashion,800,2,1600,Chennai,Cash
+41ad92b6-1082-425c-b855-7895763c81a9,2026-05-10 15:04:26,Phone,Electronics,30000,3,90000,Pune,Cash
+9bf312ba-6a2a-4c7c-9742-b3f478d35c93,2026-04-14 08:42:26,Monitor,Electronics,15000,5,75000,Chennai,Cash
+6517ce96-e417-47cd-ae56-2c5ac4633ae9,2026-04-18 15:35:26,Mouse,Electronics,1000,2,2000,Hyderabad,Cash
+f553993d-e92c-4d5d-a9d8-800508b68daf,2026-03-22 22:42:26,Monitor,Electronics,15000,5,75000,Mumbai,UPI
+eca6d7be-29bc-4b80-b2f3-cc219c712fc1,2026-05-06 13:16:26,Watch,Accessories,5000,3,15000,Hyderabad,Debit Card
+a3667b01-5fc7-4833-b323-049ea473a9e7,2026-05-08 20:30:26,Headphones,Electronics,5000,4,20000,Bangalore,UPI
+1e26a232-5314-4587-b36d-5e76a41f6d8a,2026-05-07 21:05:26,Keyboard,Electronics,2000,5,10000,Bangalore,Cash
+4b47879b-a9e0-479a-9936-1f9bd4b63b8f,2026-05-09 23:41:26,Monitor,Electronics,15000,5,75000,Mumbai,UPI
+c16e810d-d2f5-4bbc-98fd-f5159bee9975,2026-03-12 15:32:26,Jeans,Fashion,1800,3,5400,Hyderabad,UPI
+cacda77e-a29f-401e-9941-8deb169a863a,2026-04-11 12:51:26,Phone,Electronics,30000,2,60000,Hyderabad,Cash
+3d072269-b648-465b-9319-239722cbba4b,2026-04-24 17:03:26,Monitor,Electronics,15000,2,30000,Chennai,UPI
+5e272e92-9f14-4386-94a4-877c2243f8b0,2026-04-21 02:07:26,Keyboard,Electronics,2000,5,10000,Mumbai,UPI
+6924bc2e-0912-4286-92bc-4c771b808c62,2026-04-28 16:56:26,Keyboard,Electronics,2000,3,6000,Pune,UPI
+3e75a24b-1f63-4c67-9a13-d28e0ee40f7f,2026-03-04 05:04:26,Shoes,Fashion,2500,1,2500,Chennai,Cash
+443fe67b-51ba-4aeb-8378-f29922944374,2026-03-04 20:02:26,Monitor,Electronics,15000,3,45000,Pune,Cash
+232cbc25-7b76-42d9-946c-3b96798224a2,2026-04-09 04:55:26,Shoes,Fashion,2500,3,7500,Mumbai,UPI
+20e3150a-fbd1-4074-aa06-8b8f52142aec,2026-04-04 09:55:26,Mouse,Electronics,1000,4,4000,Chennai,UPI
+9c3856bf-dbc6-40b2-9097-4b002f637961,2026-04-25 06:49:26,Monitor,Electronics,15000,2,30000,Mumbai,Credit Card
+639164f8-24c7-4509-ba3c-c19fad572a80,2026-04-23 18:25:26,Monitor,Electronics,15000,5,75000,Chennai,Credit Card
+fa433748-f494-473e-b4db-abaef7af9add,2026-03-13 08:20:26,Laptop,Electronics,75000,2,150000,Hyderabad,Cash
+6d2e0597-a65e-44bd-933c-5a8627198599,2026-04-26 11:47:26,Shoes,Fashion,2500,4,10000,Mumbai,Cash
+df0c5f74-fc53-43be-bf06-2491cbfb9ae2,2026-03-18 01:21:26,Laptop,Electronics,75000,4,300000,Bangalore,Credit Card
+4812f4c3-ff03-45c6-9e90-5a694a8fbe65,2026-04-21 08:39:26,Headphones,Electronics,5000,2,10000,Pune,Cash
+d3804587-acf3-4ae1-a081-ae27b1e9eb65,2026-04-19 11:53:26,Phone,Electronics,30000,4,120000,Chennai,UPI
+ead8be77-4c29-479a-9f77-6fa965a219d3,2026-05-08 11:00:26,Watch,Accessories,5000,3,15000,Mumbai,Credit Card
+50583339-573d-462d-8b3d-7231fbbba3b9,2026-03-21 15:02:26,Shoes,Fashion,2500,2,5000,Pune,Debit Card
+168ce6ab-9cff-478c-8219-80b9b46f15e9,2026-04-05 23:20:26,Monitor,Electronics,15000,4,60000,Hyderabad,Cash
+4c466493-8905-4d5e-a297-7fe08af750e6,2026-04-30 03:36:26,Keyboard,Electronics,2000,4,8000,Delhi,Credit Card
+2a202d5c-5109-4640-95bb-4e86e08703fa,2026-04-14 18:51:26,Laptop,Electronics,75000,3,225000,Mumbai,Debit Card
+c2a1233a-8816-41a4-9e2e-8cce851aa83a,2026-04-10 05:49:26,T-Shirt,Fashion,800,4,3200,Chennai,Cash
+6dd28448-970b-4c6e-96fb-75c182cfb95e,2026-03-29 16:01:26,Laptop,Electronics,75000,5,375000,Bangalore,Debit Card
+1b8d3495-7108-429b-a76b-afffe31d883e,2026-03-20 09:05:26,T-Shirt,Fashion,800,3,2400,Mumbai,Credit Card
+9c8ad5ae-e8d4-4bd8-912e-059eeb5d28b0,2026-03-23 07:27:26,Shoes,Fashion,2500,3,7500,Bangalore,UPI
+670ac2e6-df65-4006-912f-4a0d60ac8bd0,2026-03-30 13:23:26,Laptop,Electronics,75000,2,150000,Bangalore,Debit Card
+4817078a-7cfc-4e14-8b26-e58831b61db8,2026-04-23 14:27:26,Laptop,Electronics,75000,1,75000,Hyderabad,Credit Card
+9f3b75bb-a048-4dea-8a6f-64f87a1619d3,2026-04-11 14:57:26,Mouse,Electronics,1000,5,5000,Mumbai,Credit Card
+410275cd-a191-444e-9dc5-b2745690461e,2026-04-04 20:09:26,T-Shirt,Fashion,800,4,3200,Pune,Credit Card
+68047867-f6c3-4562-81ac-d196c4a7959e,2026-04-22 04:05:26,Mouse,Electronics,1000,2,2000,Mumbai,Credit Card
+1b55e968-c06b-46a2-a8b8-eb145943c5a2,2026-04-25 01:19:26,Jeans,Fashion,1800,3,5400,Pune,UPI
+019798dc-2dab-4119-8419-cf23a98ef493,2026-04-27 20:33:26,Laptop,Electronics,75000,1,75000,Chennai,Debit Card
+a2b223b2-467b-45fe-9084-2a7beb940255,2026-04-18 17:33:26,Shoes,Fashion,2500,4,10000,Bangalore,UPI
+61d0f6a2-48fe-4956-8dd6-8c34716913e2,2026-05-10 03:38:26,Phone,Electronics,30000,4,120000,Chennai,Debit Card
+47e15ef8-0d9a-4a6f-bad9-8a81ba0c26e0,2026-03-14 02:56:26,Monitor,Electronics,15000,1,15000,Hyderabad,Debit Card
+3e5a6e07-e378-4792-a663-0f5934f02360,2026-05-10 01:42:26,Mouse,Electronics,1000,2,2000,Mumbai,UPI
+bf6704ea-b328-4d2c-9479-74c082522c45,2026-05-02 02:16:26,Monitor,Electronics,15000,3,45000,Mumbai,Credit Card
+8d62111e-711a-433e-a6cd-ec8d8798ce0a,2026-03-21 00:54:26,Laptop,Electronics,75000,1,75000,Delhi,Debit Card
+bdd27780-09bc-47a2-ab85-f811e0f3345c,2026-03-05 17:07:26,Mouse,Electronics,1000,1,1000,Pune,Cash
+d94dea22-2669-4712-89bc-681d000f9f4d,2026-03-28 05:41:26,Monitor,Electronics,15000,3,45000,Mumbai,UPI
+6b5eb76c-cac5-4774-8a2d-d65e668d3df1,2026-05-01 04:07:26,Jeans,Fashion,1800,2,3600,Delhi,Cash
+93bb2a37-cf4c-499b-87b6-7451ecef7c93,2026-04-09 14:50:26,T-Shirt,Fashion,800,2,1600,Pune,Cash
+fe899b08-39b8-4e2d-90ae-9dbbc869dec2,2026-05-02 20:41:26,Headphones,Electronics,5000,5,25000,Hyderabad,Cash
+c4f74f6d-3962-436f-9393-3c5355bfe1a1,2026-05-04 18:51:26,Shoes,Fashion,2500,1,2500,Pune,Credit Card
+842bbefe-2430-459b-aa48-a2e4e57c1479,2026-04-10 07:57:26,Monitor,Electronics,15000,3,45000,Bangalore,UPI
+9b21743e-5c9c-44c0-a615-5d12d1798665,2026-04-19 19:48:26,Mouse,Electronics,1000,3,3000,Mumbai,Debit Card
+44da5c2f-56f0-40a8-9c53-ab4a67ea424d,2026-04-13 03:03:26,Headphones,Electronics,5000,5,25000,Mumbai,Credit Card
+5e05012b-81d9-4b71-ad39-8f15e4efc44e,2026-03-09 13:24:26,Headphones,Electronics,5000,2,10000,Chennai,UPI
+aa7d95ac-d949-40a7-ab89-c37043b5a190,2026-04-25 13:07:26,T-Shirt,Fashion,800,1,800,Bangalore,Cash
+7c038f57-8481-4984-bfdd-e5fca89aa822,2026-03-27 03:25:26,Phone,Electronics,30000,3,90000,Pune,Debit Card
+adda0817-919d-4ba1-bda9-38d10201f2cc,2026-04-04 06:36:26,Keyboard,Electronics,2000,5,10000,Mumbai,Cash
+c5572191-4f7b-4818-b0ad-8fb9a05f2841,2026-04-22 19:42:26,Laptop,Electronics,75000,3,225000,Hyderabad,Credit Card
+6bf58956-69cc-4553-87ac-fd5b83115adb,2026-03-17 09:38:26,Shoes,Fashion,2500,2,5000,Bangalore,UPI
+f048aef4-4de9-414f-88d7-dbf789a54e15,2026-04-12 16:44:26,Watch,Accessories,5000,5,25000,Delhi,UPI
+d17cbe12-6d99-4ee1-ac00-80806d5d0a4b,2026-03-18 18:16:26,Headphones,Electronics,5000,4,20000,Chennai,Cash
+5410ed5d-123b-4a27-b4c8-6fa8abe5b01b,2026-04-12 18:09:26,Monitor,Electronics,15000,3,45000,Delhi,UPI
+ae2a244f-03ce-45f9-bd27-cfb59040a51a,2026-04-08 21:45:26,Jeans,Fashion,1800,3,5400,Delhi,Cash
+bbdcaf8a-1dca-4e8b-8e1b-071ffb753009,2026-04-10 21:07:26,Keyboard,Electronics,2000,4,8000,Mumbai,Debit Card
+85c2f18c-beed-4795-b6ed-5441ba54c8c3,2026-05-03 08:07:26,Phone,Electronics,30000,5,150000,Hyderabad,Debit Card
+e967780f-a0a2-42f6-b192-3b6aa95a21a2,2026-04-01 20:07:26,Laptop,Electronics,75000,4,300000,Bangalore,UPI
+08a966de-75c1-4964-912e-bd923f8ef8e8,2026-04-03 02:23:26,Phone,Electronics,30000,4,120000,Bangalore,Cash
+80b0ada3-a98d-4c93-98ad-ee97a1e92166,2026-04-21 18:55:26,T-Shirt,Fashion,800,1,800,Hyderabad,UPI
+d7e8d09c-a083-42d6-8d47-880f7bbb3e40,2026-04-08 16:32:26,Keyboard,Electronics,2000,3,6000,Pune,UPI
+97c79eb7-5fdd-46e8-89f4-47c2044b5dd4,2026-03-25 02:12:26,Mouse,Electronics,1000,4,4000,Delhi,UPI
+4128fc25-8651-42fc-92e1-cc385135138a,2026-04-22 22:40:26,Mouse,Electronics,1000,2,2000,Pune,Credit Card
+2638780a-9650-4084-99b5-dbb2cf489f58,2026-03-30 10:42:26,Laptop,Electronics,75000,5,375000,Delhi,Cash
+236a5887-c9ec-4373-8cd1-ae993812d359,2026-03-26 13:35:26,Monitor,Electronics,15000,4,60000,Delhi,Cash
+dc9ea7a7-4690-4573-9555-edcd7c2d4c67,2026-03-23 04:40:26,T-Shirt,Fashion,800,3,2400,Mumbai,Credit Card
+9608ccf3-7231-4bdf-bc65-35fff2cab196,2026-03-15 19:59:26,Laptop,Electronics,75000,2,150000,Pune,Debit Card
+3a674df2-88fe-4049-a5de-60122a56d578,2026-04-27 05:44:26,Keyboard,Electronics,2000,2,4000,Delhi,Debit Card
+8ea0e3a9-e595-43cf-859f-aee8339fb9c8,2026-03-06 11:55:26,Watch,Accessories,5000,4,20000,Hyderabad,UPI
+8fe4fab3-f35e-4945-b416-bc293d70632b,2026-05-01 23:37:26,Mouse,Electronics,1000,4,4000,Chennai,Cash
+8dde06dd-43f3-4a2f-aab9-b45fc58afd83,2026-04-22 07:44:26,Laptop,Electronics,75000,5,375000,Hyderabad,Credit Card
+f6615adb-5e46-4971-bedc-136130110993,2026-04-02 11:39:26,Headphones,Electronics,5000,4,20000,Hyderabad,UPI
+57efee76-7ab9-47b7-b8b1-7626e8699bad,2026-04-07 06:50:26,T-Shirt,Fashion,800,5,4000,Bangalore,Debit Card
+5243ef72-6d0b-4b60-9cff-e49b165c608d,2026-04-04 07:35:26,Watch,Accessories,5000,5,25000,Chennai,Cash
+fc986fe0-7e58-43cd-9bed-c37446e2ea46,2026-04-21 02:00:26,Watch,Accessories,5000,2,10000,Mumbai,Credit Card
+af3d6f2b-4122-4b2d-82fa-d0f44d00addf,2026-05-07 14:00:26,Headphones,Electronics,5000,3,15000,Chennai,Debit Card
+a76957ae-28c1-4a49-866f-532539bf8604,2026-04-30 18:18:26,Mouse,Electronics,1000,3,3000,Mumbai,Credit Card
+40075700-2275-4c65-915e-825a026ef3ee,2026-05-08 04:36:26,Mouse,Electronics,1000,3,3000,Delhi,Cash
+fb7c16ed-01b2-4a4d-b7a2-71a6c1e37568,2026-05-11 05:43:26,Jeans,Fashion,1800,2,3600,Mumbai,Credit Card
+b0f2b60a-a872-443c-a47f-0f9a0988e135,2026-05-03 02:24:26,Laptop,Electronics,75000,3,225000,Chennai,Cash
+7494aba9-6124-4fd3-bfe8-8de02bf64c06,2026-04-20 10:48:26,Laptop,Electronics,75000,1,75000,Hyderabad,Debit Card
+ffac3582-be74-432b-960f-73974805738b,2026-03-07 15:40:26,Monitor,Electronics,15000,2,30000,Hyderabad,Debit Card
+c299bcc9-e60a-4722-a579-cbe3e65f54ea,2026-04-06 23:40:26,Headphones,Electronics,5000,3,15000,Chennai,UPI
+67227e28-e3ea-437b-a4bc-524e9472bd4c,2026-03-07 23:57:26,Headphones,Electronics,5000,1,5000,Bangalore,Debit Card
+c923634a-a994-4dbd-ab68-c67b3922748c,2026-04-18 14:49:26,Jeans,Fashion,1800,4,7200,Delhi,Credit Card
+17b5fa02-453f-47e5-ad87-93eba9bfa1ba,2026-03-14 11:48:26,Monitor,Electronics,15000,4,60000,Delhi,Debit Card
+a3c4d36c-f534-4184-8649-4a14a9457c37,2026-04-23 15:14:26,Keyboard,Electronics,2000,5,10000,Bangalore,Credit Card
+e9587ad9-adbf-4b0a-955a-efb834eb7a6c,2026-04-10 00:16:26,Phone,Electronics,30000,1,30000,Bangalore,Debit Card
+3c9546d0-c19c-44d0-9700-dfbd5746df35,2026-04-04 19:59:26,Phone,Electronics,30000,3,90000,Hyderabad,Debit Card
+8db26663-80a9-4588-9551-856d6bdd54fc,2026-04-22 03:35:26,Mouse,Electronics,1000,4,4000,Mumbai,Cash
+3ed0d5ab-efc4-4fd2-b1c8-bc7f12b96d6d,2026-03-03 17:53:26,Phone,Electronics,30000,2,60000,Hyderabad,Debit Card
+dd7ee0ac-aa82-41b9-aa7a-b80514b8cb12,2026-03-15 17:37:26,Monitor,Electronics,15000,3,45000,Pune,Cash
+2f2e47e5-f59a-4f29-a48d-8388c8f282c2,2026-03-25 15:31:26,Phone,Electronics,30000,4,120000,Delhi,Debit Card
+2b9d0e82-bc30-4134-8e25-cc513452d5bb,2026-03-09 16:18:26,Monitor,Electronics,15000,2,30000,Chennai,Cash
+176b5298-ba50-4924-ba3a-5795a6e0b120,2026-04-18 16:14:26,T-Shirt,Fashion,800,1,800,Pune,UPI
+371a6738-bc5d-44f8-86d2-25646d604329,2026-05-11 03:05:26,Headphones,Electronics,5000,2,10000,Delhi,Cash
+3ce7e8fa-3cc9-42f4-846b-6771eff3622e,2026-04-06 11:21:26,Phone,Electronics,30000,4,120000,Delhi,UPI
+c7b61941-19bb-430e-9321-ee0779d309ce,2026-04-25 06:06:26,Shoes,Fashion,2500,5,12500,Hyderabad,Cash
+f9501e9c-84ec-4a5e-87f5-6963b4890304,2026-03-07 04:09:26,Keyboard,Electronics,2000,3,6000,Chennai,Cash
+2364273f-61d8-4aa6-a41a-0447e736893f,2026-04-18 10:16:26,Jeans,Fashion,1800,5,9000,Bangalore,Cash
+88e42679-877e-4699-a701-9760b1d1dc47,2026-04-04 19:14:26,Mouse,Electronics,1000,1,1000,Chennai,Credit Card
+535cb4ca-1933-451f-aad8-b58114ab44ee,2026-05-07 19:37:26,T-Shirt,Fashion,800,1,800,Pune,Debit Card
+dac26c81-0c77-4342-b539-f5506e7f0492,2026-03-20 12:01:26,Keyboard,Electronics,2000,3,6000,Mumbai,UPI
+2fd97720-1ae3-4977-ba57-6c47bf74e01a,2026-03-14 11:30:26,Shoes,Fashion,2500,1,2500,Bangalore,Cash
+9c057370-39b5-481a-a79d-67b410444803,2026-04-25 03:53:26,Headphones,Electronics,5000,1,5000,Mumbai,Credit Card
+2e26ba63-db31-4b5e-b5ac-268003360d5c,2026-05-11 06:12:26,T-Shirt,Fashion,800,2,1600,Bangalore,Debit Card
+e4f6028e-11b5-4fe2-bc0e-5c46abbc5f44,2026-03-04 14:40:26,Mouse,Electronics,1000,4,4000,Pune,Debit Card
+c89a0f2b-d382-45ee-ae3b-cd0758211c9a,2026-05-10 00:01:26,Watch,Accessories,5000,2,10000,Pune,Credit Card
+bd53e71d-51a5-4dda-be64-27c58992ecc7,2026-03-15 19:21:26,Phone,Electronics,30000,1,30000,Mumbai,Debit Card
+db85cbea-0af7-4be3-8951-3352541480a5,2026-03-22 06:23:26,Headphones,Electronics,5000,3,15000,Delhi,Credit Card
+5fd1b92d-b08d-4053-9a46-2822a96f68e0,2026-04-17 19:33:26,Keyboard,Electronics,2000,2,4000,Chennai,Cash
+610b3bde-eb34-4717-bc1a-027fdbd44fe8,2026-03-28 09:53:26,T-Shirt,Fashion,800,4,3200,Bangalore,Credit Card
+9148bbfc-de8c-4632-bbcb-afc3d95bc952,2026-03-07 14:19:26,Headphones,Electronics,5000,2,10000,Bangalore,UPI
+c8fb6fdc-b091-411a-92cd-3a98172a6d23,2026-03-30 19:34:26,Phone,Electronics,30000,5,150000,Delhi,Debit Card
+6629445d-a0f1-425d-aeeb-f681cf7f9cd9,2026-03-16 22:10:26,Watch,Accessories,5000,3,15000,Mumbai,UPI
+82ceea44-4cee-40b7-92bc-76482a82b7d8,2026-03-09 19:33:26,Laptop,Electronics,75000,2,150000,Pune,UPI
+65e0b84b-568a-4b1c-8229-ccc532bd4fc6,2026-04-04 19:17:26,Headphones,Electronics,5000,1,5000,Pune,Credit Card
+a8e73834-9f07-4de0-bb0b-869902c39e72,2026-03-29 13:16:26,Keyboard,Electronics,2000,3,6000,Bangalore,UPI
+060942d7-54e8-4ad3-8c36-5c502eba806d,2026-03-20 12:53:26,Keyboard,Electronics,2000,3,6000,Bangalore,Debit Card
+8827dc98-13fd-47d5-bd30-28c13e865466,2026-04-07 02:26:26,Phone,Electronics,30000,5,150000,Mumbai,Cash
+8d9bdb59-af21-44b5-84e5-c91a98def30f,2026-03-03 06:47:26,Watch,Accessories,5000,2,10000,Mumbai,Cash
+0d31f18b-04ff-4423-acbd-2150e1e86180,2026-04-26 05:16:26,Monitor,Electronics,15000,1,15000,Delhi,UPI
+5278a75c-a541-404f-99bd-eab151448c98,2026-03-08 23:37:26,Laptop,Electronics,75000,1,75000,Mumbai,Debit Card
+a1ad6810-7338-4368-aff0-3948d2a6ed60,2026-03-31 20:50:26,Shoes,Fashion,2500,2,5000,Bangalore,Credit Card
+f738f2c6-ec4a-45ff-b4b9-0614ca4ddff9,2026-03-16 13:08:26,T-Shirt,Fashion,800,4,3200,Delhi,Cash
+971ff1a0-8212-4d23-afcd-2d1b9c641e56,2026-05-07 02:42:26,Monitor,Electronics,15000,5,75000,Delhi,Cash
+18638152-eda0-4372-8270-33fc1747e2cd,2026-03-17 09:06:26,Headphones,Electronics,5000,1,5000,Chennai,Cash
+74bc86eb-4547-4e32-9bbb-840c5dead319,2026-05-02 12:37:26,Phone,Electronics,30000,2,60000,Hyderabad,Debit Card
+f8378ffc-e836-4485-aae2-13e3d404613a,2026-03-16 04:41:26,Headphones,Electronics,5000,4,20000,Pune,Cash
+3c55ad83-4fd3-4862-ae99-046665dbb84d,2026-04-17 05:28:26,Monitor,Electronics,15000,1,15000,Chennai,Credit Card
+3c404807-f29a-4de4-a9c0-3901b58c5fe3,2026-03-29 15:01:26,Laptop,Electronics,75000,2,150000,Pune,Debit Card
+7e6d7727-c3ca-4291-9f27-26849ce8088e,2026-04-19 20:52:26,T-Shirt,Fashion,800,3,2400,Mumbai,Debit Card
+40a1fd00-ea4f-41db-ba69-80ccc0179899,2026-03-19 15:52:26,Phone,Electronics,30000,3,90000,Pune,Debit Card
+0988810d-e861-42a2-914a-f2fbb2efc320,2026-05-07 02:47:26,Phone,Electronics,30000,5,150000,Bangalore,Debit Card
+9d01b2e6-9bc4-4e77-a784-0b2c55155d96,2026-03-20 08:56:26,Shoes,Fashion,2500,5,12500,Delhi,UPI
+3610ad99-e256-4392-927a-890bbd917916,2026-03-20 00:42:26,T-Shirt,Fashion,800,3,2400,Delhi,Debit Card
+3771e7cd-b1da-4e32-916e-2398b06db5cf,2026-04-27 07:11:26,Headphones,Electronics,5000,5,25000,Hyderabad,UPI
+910f9bd8-b348-46f8-93f9-217b74c36cf7,2026-05-09 13:06:26,Monitor,Electronics,15000,5,75000,Bangalore,Cash
+c1f6e75b-b640-4150-96bf-bd9245124fde,2026-03-30 19:11:26,Headphones,Electronics,5000,5,25000,Delhi,Cash
+00bb7210-80e3-464c-98aa-66634e2a93e5,2026-04-19 00:51:26,Watch,Accessories,5000,5,25000,Hyderabad,Cash
+4dbade67-03cb-43f5-b084-219ad72a95e2,2026-05-10 20:54:26,Keyboard,Electronics,2000,3,6000,Mumbai,Cash
+8f6c3dd4-d259-4867-958c-36f904c6014b,2026-03-18 17:25:26,Shoes,Fashion,2500,5,12500,Bangalore,Debit Card
+530dd5ec-6001-4c38-9c02-4858c62c6a34,2026-04-01 05:44:26,Headphones,Electronics,5000,3,15000,Delhi,Cash
+5c82625f-2f2a-44c5-aabe-7ecb3dec9513,2026-03-07 23:41:26,Jeans,Fashion,1800,5,9000,Bangalore,Debit Card
+58dfb059-1111-49e8-831f-9d88b7b9a3d9,2026-04-09 21:04:26,Laptop,Electronics,75000,3,225000,Chennai,Credit Card
+7f983884-dbe1-4d80-af92-bf843b59964c,2026-03-10 22:34:26,Monitor,Electronics,15000,4,60000,Chennai,Debit Card
+f6726f86-df9e-4335-87ee-a47ec65e3fe9,2026-04-21 12:31:26,Mouse,Electronics,1000,3,3000,Mumbai,Cash
+8d61b2db-0d16-4f16-a9aa-6d3ac57dff2a,2026-04-23 15:08:26,Laptop,Electronics,75000,5,375000,Bangalore,Credit Card
+ea7c0469-ebff-4ebd-9aff-6b2876e75b6b,2026-04-25 00:28:26,Watch,Accessories,5000,1,5000,Pune,Debit Card
+922cc165-2b29-4fe7-be46-a058668b76ae,2026-04-07 01:53:26,Laptop,Electronics,75000,2,150000,Chennai,Credit Card
+bbf38e83-dd93-440b-a41c-2877933cd760,2026-03-25 14:14:26,Monitor,Electronics,15000,1,15000,Delhi,Credit Card
+bc2ad982-7b70-481c-b09a-a4b7d81a61b0,2026-04-01 12:36:26,Phone,Electronics,30000,2,60000,Mumbai,Cash
+5dce3733-efdf-4e76-b676-51f03039304d,2026-05-08 13:25:26,Watch,Accessories,5000,5,25000,Pune,Debit Card
+d3a03530-2228-4e9d-a747-4538b6783e85,2026-03-20 22:45:26,Jeans,Fashion,1800,4,7200,Mumbai,Debit Card
+ae882dbe-8b9d-44a5-9a5d-a36164b65f87,2026-05-02 07:45:26,Mouse,Electronics,1000,1,1000,Bangalore,Cash
+dd71ca5f-5e16-4887-a887-80bf650bac06,2026-04-28 21:42:26,T-Shirt,Fashion,800,1,800,Bangalore,Cash
+ac37ccc1-e6af-400c-bc25-4fbc0d14afd6,2026-05-04 21:51:26,Shoes,Fashion,2500,1,2500,Chennai,Credit Card
+0bb8d4d6-5b50-4236-9849-29997e8042e9,2026-04-20 06:38:26,Laptop,Electronics,75000,2,150000,Mumbai,Cash
+d2511c69-6466-4798-acb0-f72d7a1c558e,2026-04-28 17:38:26,Jeans,Fashion,1800,4,7200,Hyderabad,Cash
+540c0a91-99d3-43e3-8f05-032cad9054c3,2026-04-26 19:39:26,Headphones,Electronics,5000,2,10000,Mumbai,Debit Card
+79bf4a1e-9ef8-48fd-b8ab-b16050488998,2026-04-06 18:52:26,T-Shirt,Fashion,800,5,4000,Hyderabad,UPI
+637ba992-3025-4a52-ab8b-84f6e6a224ff,2026-04-02 02:41:26,Jeans,Fashion,1800,2,3600,Mumbai,Debit Card
+f27d871c-fca8-46ab-ad0f-988f59a1d644,2026-03-25 19:12:26,Keyboard,Electronics,2000,2,4000,Pune,Debit Card
+c00f20e0-8e69-4562-9996-1820488876f8,2026-04-25 17:46:26,Jeans,Fashion,1800,1,1800,Hyderabad,UPI
+e84cabb0-49d2-47bc-ba76-838429b7e405,2026-03-23 04:27:26,Watch,Accessories,5000,2,10000,Delhi,Debit Card
+a41d6511-c7d4-49cf-8713-8e2914f51922,2026-04-07 07:47:26,Headphones,Electronics,5000,5,25000,Mumbai,Debit Card
+ebd0a9b8-e926-4841-aed4-6cf85b25cb39,2026-05-08 00:48:26,Monitor,Electronics,15000,2,30000,Pune,UPI
+08501388-5c14-45c8-ae96-49f3231d171d,2026-04-01 07:47:26,Headphones,Electronics,5000,3,15000,Bangalore,Cash
+d785f9fa-5ed3-438b-971f-108e1785f0b2,2026-04-14 14:07:26,T-Shirt,Fashion,800,2,1600,Bangalore,Cash
+624e4c19-187d-414b-ba12-e92a5d462908,2026-04-20 21:45:26,Phone,Electronics,30000,1,30000,Delhi,Debit Card
+936c9fdf-d68f-48b7-9047-21d24d2cd9c0,2026-03-20 16:12:26,Phone,Electronics,30000,5,150000,Bangalore,Debit Card
+0862542a-2d0c-465d-901d-465e12d9dcfd,2026-04-12 14:41:26,Monitor,Electronics,15000,2,30000,Pune,Cash
+eaf8eee2-9685-4dd5-92d5-a3f7468b8a89,2026-04-01 12:30:26,Laptop,Electronics,75000,5,375000,Mumbai,Debit Card
+192cb64d-f608-454a-94b0-0356d188fc16,2026-04-27 13:00:26,Mouse,Electronics,1000,4,4000,Chennai,Cash
+f56880fe-edd3-48a0-a598-ba5c9b6b12f3,2026-04-26 14:48:26,Watch,Accessories,5000,4,20000,Pune,Credit Card
+f36e4390-3e35-47ef-b367-fca68435d20d,2026-05-02 05:51:26,Laptop,Electronics,75000,2,150000,Pune,Credit Card
+d4e8ce28-0008-4168-864d-10fde12d88e5,2026-03-11 13:08:26,Keyboard,Electronics,2000,2,4000,Chennai,UPI
+2eeb6bdb-e0a7-48dd-9950-ea20a3c76fae,2026-03-22 14:19:26,Phone,Electronics,30000,4,120000,Hyderabad,Cash
+d2e8e44b-dcbe-4906-bc8d-24aaf766f7e2,2026-05-05 01:22:26,Shoes,Fashion,2500,1,2500,Mumbai,Debit Card
+eb0026cf-e023-4770-b23f-ed976e52c03a,2026-05-02 18:02:26,Keyboard,Electronics,2000,3,6000,Mumbai,Cash
+065d20d9-294e-4788-ab9c-098569617a0f,2026-04-14 19:00:26,Jeans,Fashion,1800,2,3600,Chennai,UPI
+63cb335b-8d5e-45a5-af88-d9f6bc483f98,2026-03-19 12:00:26,Shoes,Fashion,2500,4,10000,Delhi,Credit Card
+bceae4ab-c794-4d31-b3d7-63ae333f3bf7,2026-04-11 05:36:26,Phone,Electronics,30000,4,120000,Pune,UPI
+1aaf6daf-2750-4b0c-99c3-339b9e7bb881,2026-04-09 11:45:26,T-Shirt,Fashion,800,1,800,Bangalore,UPI
+5ee5a154-c297-4deb-96f1-48a092614502,2026-03-11 18:29:26,T-Shirt,Fashion,800,1,800,Hyderabad,UPI
+696d82e0-de50-4792-b272-077b96ce5923,2026-03-13 20:36:26,Phone,Electronics,30000,5,150000,Delhi,Credit Card
+30ba4bd3-1250-4a4a-9392-5902db935ded,2026-04-29 10:35:26,Mouse,Electronics,1000,5,5000,Hyderabad,UPI
+696c83f2-ee3e-48df-90d1-05fd2eeb9b00,2026-03-06 03:19:26,Shoes,Fashion,2500,5,12500,Hyderabad,Credit Card
+0c6da4d0-5ac8-48af-8908-af8c05e1d0a8,2026-03-16 15:27:26,Laptop,Electronics,75000,5,375000,Pune,Credit Card
+c89ab1c3-d288-4d4f-b293-1b3ae483ccc4,2026-04-27 23:10:26,Laptop,Electronics,75000,3,225000,Chennai,UPI
+9f8047fb-2526-4ff4-b017-f2357d56defd,2026-04-21 17:54:26,Watch,Accessories,5000,3,15000,Chennai,Debit Card
+8e30b753-f85c-4011-9365-95de165d0b60,2026-03-28 13:04:26,Watch,Accessories,5000,5,25000,Mumbai,UPI
+0f32dd46-fe27-4b10-8173-5afa27786608,2026-03-27 19:51:26,Headphones,Electronics,5000,1,5000,Chennai,UPI
+7cb383ee-2114-449e-8ab4-212c3e3a99dd,2026-04-03 18:02:26,Jeans,Fashion,1800,4,7200,Chennai,Debit Card
+e5f8edd5-a78b-4453-b880-404aa02e1e25,2026-03-22 06:34:26,Phone,Electronics,30000,3,90000,Delhi,Debit Card
+4fb36a74-b539-4082-bb98-8b6bb2167349,2026-05-01 21:58:26,T-Shirt,Fashion,800,3,2400,Hyderabad,Credit Card
+00ec436b-6902-476e-989f-88b6fb6c2697,2026-03-13 21:10:26,Shoes,Fashion,2500,3,7500,Bangalore,Credit Card
+2bfe484e-82de-4659-b925-68ac0b8b3947,2026-05-02 08:36:26,Headphones,Electronics,5000,5,25000,Bangalore,Cash
+87e86e3e-344a-4b9e-9f81-bfa212eb8610,2026-03-29 23:25:26,Monitor,Electronics,15000,3,45000,Bangalore,Debit Card
+22e7f4b6-d3a1-47e5-abba-d33779169aa8,2026-04-22 10:48:26,Laptop,Electronics,75000,4,300000,Delhi,Debit Card
+daf9322f-13dd-4396-9703-894ce9c2278a,2026-05-04 02:57:26,Mouse,Electronics,1000,4,4000,Pune,Credit Card
+a01f55bd-1498-4bce-8c0b-faf35f6f1cad,2026-03-29 00:01:26,Mouse,Electronics,1000,3,3000,Hyderabad,Cash
+ada2e936-7d31-46b6-a4dc-647862ab0392,2026-03-13 22:00:26,T-Shirt,Fashion,800,2,1600,Hyderabad,Cash
+dc2fabf8-999d-4d60-9ad2-d71d1887131d,2026-05-02 05:45:26,Keyboard,Electronics,2000,5,10000,Delhi,UPI
+d5010bd3-94af-4a5f-acd0-eb92726a7153,2026-04-30 07:13:26,Shoes,Fashion,2500,5,12500,Chennai,Credit Card
+e88f9eff-d7d6-41d4-87fc-06cada98bd0b,2026-03-27 06:14:26,Keyboard,Electronics,2000,3,6000,Pune,UPI
+c5b8a2f7-7590-40b9-83df-676cdf522b36,2026-03-17 18:44:26,Watch,Accessories,5000,1,5000,Mumbai,Credit Card
+00972749-166d-410c-8c53-c264bb67dbd6,2026-04-24 07:56:26,Mouse,Electronics,1000,5,5000,Pune,Cash
+603b897f-8732-46a8-9dd1-81807810a93a,2026-04-26 15:26:26,Laptop,Electronics,75000,5,375000,Pune,Cash
+7920121d-1ba4-4baa-a3d8-31e988c4551e,2026-03-29 20:52:26,Laptop,Electronics,75000,2,150000,Delhi,Debit Card
+2c5dbf17-e7a6-48e0-9625-910859925859,2026-03-16 12:47:26,Monitor,Electronics,15000,3,45000,Chennai,UPI
+e41f484b-7525-40e8-9e95-e9ea295bcbc4,2026-04-24 01:05:26,Shoes,Fashion,2500,4,10000,Hyderabad,Debit Card
+f905d3a0-005a-4b70-b14e-2f282b9df631,2026-05-05 20:06:26,Headphones,Electronics,5000,2,10000,Hyderabad,Debit Card
+c2b838cd-494e-4edf-9cfd-c3e0eae15203,2026-03-11 13:04:26,Watch,Accessories,5000,3,15000,Pune,Cash
+6b4ddde7-b024-4800-9ebd-60b8c77d3052,2026-04-09 21:54:26,Monitor,Electronics,15000,5,75000,Hyderabad,Debit Card
+920036ed-8619-4a12-8179-5d3d0461f804,2026-04-02 20:08:26,Keyboard,Electronics,2000,2,4000,Pune,UPI
+b5ad5637-0f7b-4046-bbca-d5df5c96e10b,2026-05-10 23:21:26,T-Shirt,Fashion,800,1,800,Chennai,UPI
+1e0900d5-702a-4384-9407-2f3d77a0529a,2026-05-11 06:02:26,Mouse,Electronics,1000,3,3000,Delhi,Debit Card
+549b0468-a318-43ac-a162-fa5b97efdd65,2026-03-27 18:11:26,Watch,Accessories,5000,5,25000,Delhi,Debit Card
+42bc0d65-4d75-4231-ad1d-b79873fa4ebb,2026-03-15 06:44:26,Phone,Electronics,30000,2,60000,Bangalore,Debit Card
+bf012728-2cdb-4c2f-a06a-e1c344051467,2026-04-05 10:42:26,Laptop,Electronics,75000,3,225000,Chennai,UPI
+0b33329c-a3b0-4ab9-98bc-dba8ea85ceb7,2026-04-28 04:21:26,Headphones,Electronics,5000,3,15000,Pune,Credit Card
+9aa9dd32-37fd-4d3f-b304-9c091e07abc1,2026-05-03 17:26:26,Phone,Electronics,30000,5,150000,Chennai,UPI
+3236cd5d-1809-4a48-a6f7-b4e967a67dcf,2026-04-30 07:31:26,Laptop,Electronics,75000,4,300000,Delhi,Debit Card
+9a2cd869-241c-4c53-b357-7869b48fa0bb,2026-03-18 20:36:26,Mouse,Electronics,1000,3,3000,Bangalore,Debit Card
+3f2ad614-249a-4743-96a1-018d4f527248,2026-03-30 10:54:26,Phone,Electronics,30000,1,30000,Hyderabad,Debit Card
+758c19fe-a2f2-4981-b9cc-8a55b306a420,2026-03-10 17:06:26,Headphones,Electronics,5000,4,20000,Pune,Debit Card
+a990e1f7-170e-4197-a356-58084b9bc25a,2026-03-28 22:50:26,Mouse,Electronics,1000,3,3000,Mumbai,UPI
+e9cd7c43-f7b4-401e-b857-bf422f78419d,2026-05-08 19:23:26,Keyboard,Electronics,2000,2,4000,Mumbai,UPI
+6ead135c-8286-4e83-8d24-c3cf60ca68d9,2026-04-14 16:50:26,Monitor,Electronics,15000,4,60000,Bangalore,Credit Card
+17fcaba6-8654-4ad9-ae82-0ed74db4a588,2026-05-08 03:04:26,Laptop,Electronics,75000,3,225000,Chennai,UPI
+c62ec0ca-198c-4632-b714-9d3e9d042bd8,2026-04-07 07:16:26,Jeans,Fashion,1800,5,9000,Mumbai,Cash
+898f0001-7e97-483a-a6ee-72cee94f74ff,2026-03-14 16:32:26,Laptop,Electronics,75000,4,300000,Pune,Cash
+db4e1d0d-3013-47f1-9cc7-8826a8323a42,2026-03-12 00:10:26,Phone,Electronics,30000,2,60000,Bangalore,Cash
+edb46c94-dae2-4fbf-a7a7-7c3830cb0396,2026-03-17 11:50:26,T-Shirt,Fashion,800,3,2400,Mumbai,Cash
+c99017bc-28fb-43b0-82df-f11f7129a159,2026-05-08 13:40:26,Shoes,Fashion,2500,3,7500,Delhi,Cash
+e949027b-bf7c-42eb-807d-68d07d708bbf,2026-04-25 03:13:26,Monitor,Electronics,15000,4,60000,Delhi,UPI
+7e8eff1f-a3b0-4dbe-93c8-fc9ae4af908c,2026-04-02 22:17:26,Laptop,Electronics,75000,2,150000,Hyderabad,UPI
+d5a3307d-45b9-4b5a-9334-00fb6808dcba,2026-04-30 12:39:26,Monitor,Electronics,15000,1,15000,Chennai,Debit Card
+9d857107-dcd9-4f71-aa7c-fe0d722af2c3,2026-03-11 19:37:26,Shoes,Fashion,2500,2,5000,Chennai,Debit Card
+98a8a650-42e8-434d-8f89-ede96d2497c5,2026-05-10 02:10:26,Watch,Accessories,5000,1,5000,Hyderabad,Cash
+f4473446-1968-41a2-9849-847914499843,2026-05-03 08:43:26,T-Shirt,Fashion,800,5,4000,Delhi,UPI
+5f77c815-beb0-441b-9411-687c4c7e10be,2026-03-23 16:06:26,Shoes,Fashion,2500,5,12500,Hyderabad,UPI
+42f62fb3-e59c-4038-b5be-3efbc5fb86a7,2026-03-29 11:49:26,Headphones,Electronics,5000,4,20000,Pune,Credit Card
+4e4e74f8-d9ee-45bd-a6ad-bc196dc74fbe,2026-03-15 21:25:26,Jeans,Fashion,1800,4,7200,Hyderabad,Cash
+d8f90891-3998-4ecc-a053-076394e90ac6,2026-04-10 03:34:26,Mouse,Electronics,1000,4,4000,Delhi,UPI
+b5a6af07-72b9-4e79-acf5-28e511409eba,2026-05-05 02:43:26,Laptop,Electronics,75000,5,375000,Hyderabad,UPI
+2b63b57d-8985-44fb-b494-2a6d6e660158,2026-05-03 04:50:26,Phone,Electronics,30000,4,120000,Chennai,UPI
+4feecab1-e328-4ec7-ae0e-e10be17d17b2,2026-05-03 23:13:26,Jeans,Fashion,1800,2,3600,Mumbai,Debit Card
+b6a23964-c6f6-4329-95a4-bd3705f4a9f1,2026-03-25 11:45:26,Laptop,Electronics,75000,3,225000,Hyderabad,Debit Card
+41b67746-512a-46af-921f-061a83dfb16e,2026-03-05 15:30:26,T-Shirt,Fashion,800,5,4000,Delhi,Debit Card
+b10bbe58-02ea-46c7-b28e-db0b2d3fd645,2026-04-14 17:35:26,Shoes,Fashion,2500,3,7500,Chennai,UPI
+4fef1910-82f1-4c49-94d3-3798be9a8fcd,2026-03-25 22:11:26,Mouse,Electronics,1000,2,2000,Chennai,Debit Card
+b594b56d-0bff-43b4-b8e5-354caa36b34a,2026-04-21 08:09:26,Monitor,Electronics,15000,1,15000,Mumbai,UPI
+9121348f-cb43-4220-86cb-9924a4999262,2026-04-17 10:47:26,Shoes,Fashion,2500,2,5000,Delhi,UPI
+8bb78dbd-3dcc-4c67-804a-599468098356,2026-05-07 23:00:26,Keyboard,Electronics,2000,1,2000,Pune,Cash
+acfe92fa-4bd3-4907-928f-d62bae3804cb,2026-04-24 05:27:26,Laptop,Electronics,75000,4,300000,Chennai,Credit Card
+2651c8ee-1166-460f-9db5-50a3804e0461,2026-05-07 00:43:26,Laptop,Electronics,75000,1,75000,Pune,Debit Card
+d72bd3e2-c223-4334-98b5-ae80399e79de,2026-04-15 12:17:26,Keyboard,Electronics,2000,3,6000,Bangalore,Cash
+111c6e11-e587-4bb0-b0db-18b67914a4e1,2026-03-11 20:54:26,Phone,Electronics,30000,2,60000,Chennai,Debit Card
+e1f74aa8-8d66-491e-897d-62bce4200f47,2026-04-11 14:10:26,T-Shirt,Fashion,800,2,1600,Hyderabad,Credit Card
+1cb804d6-65b7-42ba-9bc2-011531203757,2026-05-06 02:32:26,Phone,Electronics,30000,4,120000,Pune,UPI
+ea873417-2aa9-4c63-82e2-8ac4178a7273,2026-03-09 14:18:26,Monitor,Electronics,15000,3,45000,Pune,Debit Card
+935335e4-9c2a-40c8-b1d0-e053e25fc03b,2026-03-08 21:14:26,T-Shirt,Fashion,800,2,1600,Delhi,UPI
+7330b0ce-77ad-4065-876b-bde1d83469f4,2026-03-06 00:42:26,Keyboard,Electronics,2000,2,4000,Chennai,Debit Card
+2941248b-c649-45ca-8a3d-339574a7d8a9,2026-03-15 22:37:26,Laptop,Electronics,75000,4,300000,Chennai,UPI
+83b6e701-6925-4ec7-bc63-689d6af32ea2,2026-03-23 21:00:26,Mouse,Electronics,1000,1,1000,Chennai,Credit Card
+1f6bf6c2-0b49-4e85-a38c-72ce61026296,2026-03-26 17:20:26,Jeans,Fashion,1800,2,3600,Pune,UPI
+fad0e13b-a38f-4a94-9830-8d6f5ebe5046,2026-03-19 14:33:26,Watch,Accessories,5000,2,10000,Bangalore,UPI
+7dc2a52c-009e-425e-8320-e7dfa02458c0,2026-03-11 22:33:26,Phone,Electronics,30000,4,120000,Hyderabad,Credit Card
+6a20ce9e-c4a4-42f0-b466-4777c53b2740,2026-04-22 08:18:26,Mouse,Electronics,1000,5,5000,Mumbai,Debit Card
+438a22d2-34b4-4885-86a7-0d1f0f17ef32,2026-04-14 02:53:26,Watch,Accessories,5000,2,10000,Delhi,Credit Card
+61a5862e-cdea-40c7-8a40-8661cf99b10d,2026-05-06 08:20:26,Mouse,Electronics,1000,3,3000,Bangalore,Credit Card
+48d396f5-73d6-4815-af0c-37f241bfd923,2026-04-27 00:38:26,Headphones,Electronics,5000,4,20000,Delhi,Credit Card
+a4040d1b-6582-429e-86a1-e4ec88e963c6,2026-04-13 17:57:26,Jeans,Fashion,1800,4,7200,Hyderabad,Debit Card
+b2f63084-fa75-4410-8cdd-367965b66cd0,2026-03-28 09:58:26,Mouse,Electronics,1000,2,2000,Pune,UPI
+210bf8f0-1eab-429d-8fc0-bbfae3c8bcad,2026-04-20 11:25:26,Keyboard,Electronics,2000,1,2000,Delhi,Credit Card
+d494c1b9-d64a-488c-bc76-0c310bc7ee54,2026-04-24 14:49:26,Headphones,Electronics,5000,3,15000,Bangalore,Cash
+8fc293fe-42b8-47a5-b962-85d853f3e8d8,2026-05-11 09:01:26,Jeans,Fashion,1800,4,7200,Hyderabad,Credit Card
+5ada50b8-bc1d-4094-ab3e-7590982683d5,2026-04-11 06:30:26,Monitor,Electronics,15000,5,75000,Bangalore,Cash
+ff07c2ae-6e94-4360-bf48-f9f9fa859e59,2026-03-16 07:49:26,T-Shirt,Fashion,800,4,3200,Delhi,Cash
+a04ed484-0042-444c-bc0a-85c5604afc55,2026-05-11 12:26:26,Laptop,Electronics,75000,3,225000,Pune,Debit Card
+93e92805-74c1-4aaa-b317-2844326087bb,2026-03-28 03:55:26,Mouse,Electronics,1000,1,1000,Bangalore,Cash
+765cecdd-c572-437d-a6f5-4dcedf1fd599,2026-04-30 00:15:26,Laptop,Electronics,75000,1,75000,Mumbai,Credit Card
+612adebe-c0ca-4926-a504-5b15744fd28d,2026-05-02 11:25:26,Headphones,Electronics,5000,4,20000,Chennai,Debit Card
+52897330-c71a-4725-a903-cc9764180b3f,2026-04-08 14:11:26,Headphones,Electronics,5000,3,15000,Chennai,Cash
+db362ee4-0ed9-4242-833d-9eedd019f532,2026-03-29 18:21:26,Shoes,Fashion,2500,1,2500,Bangalore,UPI
+f42bcdd4-cd4a-4934-a441-075062e70e1c,2026-05-09 18:01:26,Watch,Accessories,5000,2,10000,Mumbai,Debit Card
+cf68dea1-88b3-4509-aebf-dd43fc9fd6de,2026-04-21 00:05:26,Watch,Accessories,5000,2,10000,Delhi,Cash
+95368310-96c5-4877-af50-020919a01bfd,2026-04-30 01:31:26,Monitor,Electronics,15000,2,30000,Hyderabad,Credit Card
+1064701a-af8c-4349-aa94-3bf1120dfffa,2026-04-14 10:02:26,Shoes,Fashion,2500,4,10000,Delhi,UPI
+b12fdbdd-b197-4020-bbd2-6b92f92e2f8e,2026-03-24 04:49:26,Mouse,Electronics,1000,2,2000,Delhi,Cash
+db462c30-44e4-457f-a5d7-ae5ce3db48d5,2026-03-27 13:56:26,T-Shirt,Fashion,800,4,3200,Mumbai,Debit Card
+45dd5fb7-224f-43ff-87a9-d876f9b73d59,2026-05-09 01:34:26,Monitor,Electronics,15000,1,15000,Pune,Cash
+8c65b022-cf25-4a8a-afa3-4ad9e8b708ba,2026-04-19 14:16:26,Keyboard,Electronics,2000,4,8000,Mumbai,Cash
+c255e691-7880-43f9-bb8e-d3fe1cbbe2b5,2026-03-23 18:48:26,Mouse,Electronics,1000,1,1000,Bangalore,Cash
+1d79a959-b80c-4264-a11a-5d9c1b35ff07,2026-03-03 20:56:26,Jeans,Fashion,1800,1,1800,Bangalore,Cash
+941945c7-09f4-46ca-89cc-87153203c47f,2026-04-28 00:34:26,Shoes,Fashion,2500,2,5000,Bangalore,Cash
+83a54d7e-1cea-4a3c-9437-dc3095aa3bb7,2026-04-21 08:58:26,Phone,Electronics,30000,2,60000,Pune,UPI
+5e01f1d1-dec3-448c-bc5e-5ddf6434937e,2026-03-06 08:47:26,Headphones,Electronics,5000,2,10000,Chennai,Cash
+bcac190f-b7fa-4309-b31c-f06eeb9ded03,2026-04-14 08:14:26,Monitor,Electronics,15000,3,45000,Bangalore,Debit Card
+455dfa67-1b0d-4efe-9d2d-30ee91724a60,2026-04-20 17:41:26,Mouse,Electronics,1000,3,3000,Bangalore,Credit Card
+18c484b4-3020-4339-b3cf-1817e5836811,2026-05-07 00:54:26,Watch,Accessories,5000,2,10000,Mumbai,Credit Card
+22024083-4d68-468d-a5dc-21459f46d553,2026-04-09 21:41:26,T-Shirt,Fashion,800,5,4000,Hyderabad,Credit Card
+4274a881-e2c4-43d6-9e47-93cf7611de1e,2026-04-09 07:55:26,Shoes,Fashion,2500,2,5000,Bangalore,Cash
+7cf466f5-a559-446d-a776-64c2553e0506,2026-04-16 16:58:26,Mouse,Electronics,1000,5,5000,Delhi,UPI
+094dab1d-2595-4b1f-acb7-15dd4a8a2800,2026-04-11 09:01:26,Phone,Electronics,30000,2,60000,Mumbai,Cash
+fd57918a-dec1-4d9e-afdb-8ef6e359bbd5,2026-03-09 15:36:26,Shoes,Fashion,2500,1,2500,Chennai,UPI
+c494f9d8-ed19-4482-9d0a-1a3964d9eb2d,2026-03-31 19:26:26,Keyboard,Electronics,2000,4,8000,Bangalore,UPI
+a8c615cc-804e-44f7-b1bb-44dc38473c81,2026-05-10 10:19:26,Mouse,Electronics,1000,3,3000,Bangalore,Credit Card
+6d0dd163-e607-4701-99c5-2922968d53a3,2026-05-10 09:18:26,Shoes,Fashion,2500,5,12500,Chennai,Debit Card
+1df0f9c9-55ad-4d2f-a78f-36f5a7f9e308,2026-04-24 03:12:26,Mouse,Electronics,1000,5,5000,Mumbai,Cash
+faf010e4-77e5-41ba-b676-02eac85d4433,2026-03-23 01:04:26,Monitor,Electronics,15000,4,60000,Hyderabad,UPI
+7cb0043d-0160-4015-86ee-92a2df02b26e,2026-05-03 04:11:26,Keyboard,Electronics,2000,5,10000,Chennai,Credit Card
+6ecc21c7-4254-45ec-a237-b075fff9dc67,2026-04-27 12:42:26,Jeans,Fashion,1800,5,9000,Bangalore,Credit Card
+8f3245b2-8781-4b57-a2d9-7a07802c3893,2026-03-07 09:54:26,Laptop,Electronics,75000,4,300000,Hyderabad,UPI
+a2140ceb-b436-41a8-bf1e-b53f135acee7,2026-04-02 10:26:26,T-Shirt,Fashion,800,3,2400,Pune,Debit Card
+dc2c0b54-455f-42d5-9ad6-fbb09c42296b,2026-04-01 03:53:26,Jeans,Fashion,1800,5,9000,Delhi,Debit Card
+105e7424-6025-4c42-9460-9b9b29ce5ffd,2026-03-08 07:19:26,Laptop,Electronics,75000,1,75000,Bangalore,UPI
+8012b863-5af9-4999-ba9b-ce7e82512452,2026-04-09 11:33:26,Mouse,Electronics,1000,3,3000,Mumbai,UPI
+483f3ff4-f326-4e00-99da-c0a46590c96e,2026-04-12 03:17:26,Watch,Accessories,5000,2,10000,Chennai,Credit Card
+33c35e1f-24f7-47b3-89a2-892edb7d8b1d,2026-03-03 19:41:26,T-Shirt,Fashion,800,3,2400,Chennai,Cash
+ab510571-5b05-4d99-9ab7-de3ef13247f0,2026-04-07 23:20:26,Watch,Accessories,5000,2,10000,Hyderabad,Cash
+f848acfc-4871-4a88-8efa-a568b00d2a77,2026-04-17 11:34:26,Phone,Electronics,30000,3,90000,Delhi,Debit Card
+5ed7792c-20b1-4bbd-b015-f030901da5d6,2026-03-10 03:54:26,Jeans,Fashion,1800,5,9000,Delhi,Debit Card
+b38d6740-18e3-45c4-ad75-4f67c827e59f,2026-03-22 23:44:26,Jeans,Fashion,1800,1,1800,Mumbai,Credit Card
+245e0d04-d2f1-402c-86e6-a1c92326cceb,2026-03-12 05:58:26,Keyboard,Electronics,2000,4,8000,Pune,UPI
+1a30d592-6323-4e54-98ac-1079ad7ad3b2,2026-05-08 19:19:26,Phone,Electronics,30000,3,90000,Bangalore,Cash
+a0bce1d6-e75b-4cac-8766-296898e6bebf,2026-03-29 13:03:26,Watch,Accessories,5000,4,20000,Hyderabad,Cash
+952e2cce-5351-43ea-8e67-a303743f9b02,2026-04-23 02:25:26,Headphones,Electronics,5000,3,15000,Hyderabad,Debit Card
+d8dbc453-0cd7-433b-a60a-39c61a4c132b,2026-05-06 11:17:26,Watch,Accessories,5000,1,5000,Pune,Debit Card
+0a8e844c-2ee3-4517-ad9b-4dc6466e2ba3,2026-05-09 05:02:26,Laptop,Electronics,75000,1,75000,Hyderabad,UPI
+6d5e95f6-bed4-4791-a1fc-39b6e8fe7a6b,2026-03-20 13:54:26,Phone,Electronics,30000,5,150000,Chennai,Cash
+23a56ceb-5d5a-4cab-8057-23da63b75534,2026-05-09 03:58:26,Jeans,Fashion,1800,5,9000,Chennai,Debit Card
+8141c9ad-8026-4c2f-8dfe-1e00b4dd2900,2026-03-20 01:28:26,T-Shirt,Fashion,800,3,2400,Pune,UPI
+fd1c32bc-6296-4594-a82e-f88b498e36f9,2026-03-16 05:10:26,Keyboard,Electronics,2000,4,8000,Pune,Cash
+275acfc9-283c-441e-950b-17388b43f2bb,2026-05-05 03:13:26,Watch,Accessories,5000,2,10000,Mumbai,Cash
+9579b504-ada1-4cb8-9104-3a66fbee23a8,2026-05-02 02:49:26,Keyboard,Electronics,2000,3,6000,Delhi,Debit Card
+602646dd-6c7f-4526-9cc4-8dfbdb7d2081,2026-05-02 20:08:26,Monitor,Electronics,15000,3,45000,Bangalore,Credit Card
+42d996cc-4071-4528-b9c9-493e1ea434fe,2026-04-19 14:41:26,Phone,Electronics,30000,1,30000,Delhi,Cash
+2a9460c4-852e-4bef-929c-6f8f031a0bbb,2026-04-16 18:25:26,Phone,Electronics,30000,1,30000,Pune,Debit Card
+b49efaf9-e5f2-44c7-ac25-2edeaa89cc77,2026-03-28 12:51:26,Monitor,Electronics,15000,5,75000,Delhi,UPI
+c2cb455e-70e0-418a-bf22-f8914c6d27b4,2026-04-09 11:42:26,Shoes,Fashion,2500,5,12500,Pune,Debit Card
+b35a133d-4618-44c0-a3bc-0f8a823a8e87,2026-04-10 07:14:26,Keyboard,Electronics,2000,4,8000,Chennai,Debit Card
+a9b8da97-ad11-4eb0-878a-ebaa4d6711ce,2026-05-04 21:32:26,Jeans,Fashion,1800,4,7200,Pune,Credit Card
+bcd6f650-f9e5-4d83-a060-9a3852285452,2026-04-01 21:02:26,Headphones,Electronics,5000,2,10000,Mumbai,Debit Card
+b01fa6f7-223f-4824-b3d7-45e1e0b52b56,2026-04-09 06:55:26,Shoes,Fashion,2500,4,10000,Delhi,UPI
+ed83c127-01a2-484e-b498-ba7ba4616563,2026-04-20 02:22:26,Phone,Electronics,30000,1,30000,Bangalore,Debit Card
+bb503f1c-5243-4fb8-81a2-422cfb74f921,2026-04-04 17:15:26,Watch,Accessories,5000,1,5000,Chennai,Cash
+46a975cc-1ad5-42a6-84c7-83917d79e84d,2026-04-30 21:07:26,T-Shirt,Fashion,800,3,2400,Hyderabad,UPI
+231be033-970b-4801-8597-b3589a972825,2026-03-25 04:35:26,Watch,Accessories,5000,1,5000,Pune,UPI
+745e3bcf-49ee-4b40-8c93-8e6719e8d25f,2026-04-05 18:50:26,Phone,Electronics,30000,2,60000,Delhi,Credit Card
+b59d04a0-7874-4871-a870-6e2bb5a41d21,2026-03-29 23:46:26,Laptop,Electronics,75000,4,300000,Delhi,UPI
+23daddfd-3284-4c4e-b597-22be37516763,2026-03-11 04:21:26,Mouse,Electronics,1000,4,4000,Hyderabad,UPI
+d2e10ca8-97fd-4dac-98ef-fc100d721985,2026-03-29 18:06:26,Headphones,Electronics,5000,1,5000,Delhi,Cash
+6ead0789-baa3-4348-b929-895c5df70a8c,2026-05-07 05:13:26,Watch,Accessories,5000,1,5000,Mumbai,Credit Card
+8605a0d1-5eef-4b67-9fa7-d3a44a79b0fb,2026-03-13 08:42:26,Jeans,Fashion,1800,2,3600,Bangalore,Cash
+01d09465-19f1-44bb-bf49-900316e119bc,2026-04-29 21:27:26,Laptop,Electronics,75000,3,225000,Mumbai,Credit Card
+1aaef4e3-a117-4b69-9891-837c27a23d69,2026-04-10 10:56:26,Headphones,Electronics,5000,5,25000,Delhi,Debit Card
+4cebdd9b-6152-4c65-827d-4b450d164f20,2026-03-23 22:22:26,Monitor,Electronics,15000,5,75000,Delhi,Credit Card
+3c1114d4-e053-430c-82d9-f20c85441bed,2026-04-28 00:21:26,Keyboard,Electronics,2000,4,8000,Bangalore,UPI
+7406badc-97eb-459f-840a-d03321b9cde7,2026-04-20 15:28:26,Keyboard,Electronics,2000,4,8000,Mumbai,Cash
+3fdb7568-910b-49bf-9ad1-33adb1e20c0b,2026-03-11 20:37:26,T-Shirt,Fashion,800,5,4000,Bangalore,UPI
+659ed540-54fc-49db-a7d1-f5a5a75733d7,2026-05-10 20:37:26,Shoes,Fashion,2500,4,10000,Hyderabad,Credit Card
+d392d555-762c-42e2-90df-9056b34e500d,2026-04-04 10:45:26,Laptop,Electronics,75000,4,300000,Bangalore,Cash
+39210b1f-9bed-46ec-a1dc-e84e6fb401dc,2026-03-26 13:40:26,Keyboard,Electronics,2000,3,6000,Pune,UPI
+bb9d3eff-b19e-4125-a4ac-abfed353531c,2026-03-17 12:19:26,Phone,Electronics,30000,5,150000,Mumbai,Credit Card
+47932c67-c8d1-4a1d-b62f-cd74c1cdd84d,2026-04-06 14:56:26,Jeans,Fashion,1800,1,1800,Chennai,Cash
+625b954b-4cbc-4b80-b0e0-33bbb0df5f86,2026-03-16 13:42:26,Mouse,Electronics,1000,5,5000,Delhi,UPI
+83c0fb8d-5a44-48d4-9157-d4e268bc4bd9,2026-04-26 05:18:26,Keyboard,Electronics,2000,4,8000,Chennai,Cash
+c0bbd4a0-a2df-40ae-b4ef-06f496cdb49f,2026-05-01 00:07:26,Watch,Accessories,5000,1,5000,Delhi,UPI
+f91c0e6b-5144-49a8-a8db-5c6a694741ce,2026-03-28 19:18:26,Monitor,Electronics,15000,4,60000,Pune,UPI
+c1fe1b6c-dbcb-45fd-a666-f9d3ec882192,2026-03-29 16:21:26,Keyboard,Electronics,2000,2,4000,Chennai,Credit Card
+b6223f44-b11f-4e85-b248-dfa34c6eb7cd,2026-05-11 07:01:26,Mouse,Electronics,1000,5,5000,Mumbai,Debit Card
+5b24373b-878f-4b73-a40f-b8d031ebb36f,2026-04-27 02:18:26,Shoes,Fashion,2500,2,5000,Hyderabad,UPI
+9c6f1016-b301-4a4e-930c-461fd496dcbc,2026-04-03 07:46:26,Watch,Accessories,5000,3,15000,Pune,Debit Card
+a612d577-c500-4ac6-ac22-a444d9c1e42a,2026-05-11 09:50:26,Phone,Electronics,30000,2,60000,Mumbai,Credit Card
+1628b66a-18ff-46f2-bfa7-4f1c029429fc,2026-04-26 21:22:26,Headphones,Electronics,5000,4,20000,Hyderabad,Debit Card
+8d1406cb-7160-41ec-801f-5d22c74ab998,2026-03-24 07:57:26,Keyboard,Electronics,2000,3,6000,Pune,Cash
+4236ebc3-5411-498b-a304-8bec9cbf46e9,2026-04-06 15:43:26,Mouse,Electronics,1000,4,4000,Bangalore,UPI
+899fc8f8-1403-4e41-8ef7-ecfbfcb311c9,2026-04-06 03:21:26,Phone,Electronics,30000,1,30000,Delhi,UPI
+39ef64a3-2f00-4c25-aa4c-e3e96210a990,2026-04-04 08:09:26,Laptop,Electronics,75000,5,375000,Pune,Cash
+f7a1e624-49c4-4373-be02-f6068c78fd78,2026-04-18 08:57:26,Monitor,Electronics,15000,3,45000,Chennai,Credit Card
+861b0e76-7128-4cc8-a2ff-ddac7f6e025a,2026-04-18 11:47:26,Phone,Electronics,30000,5,150000,Hyderabad,Credit Card
+2a5d0ee5-5d8e-43c6-a140-905dd8ec8c70,2026-05-03 23:48:26,Keyboard,Electronics,2000,2,4000,Chennai,Cash
+74104d7f-ad90-4272-b607-645bb1f3649e,2026-04-23 07:42:26,Watch,Accessories,5000,2,10000,Hyderabad,Debit Card
+5ed1e1b0-c650-4ab8-b30a-12080893d529,2026-04-23 00:26:26,Jeans,Fashion,1800,2,3600,Mumbai,Debit Card
+8f00788d-2710-4746-bd94-22d7135638e7,2026-03-13 10:46:26,T-Shirt,Fashion,800,4,3200,Hyderabad,Cash
+628b61ed-5251-4c3e-847c-0853399ea5f2,2026-04-25 12:09:26,Laptop,Electronics,75000,4,300000,Bangalore,UPI
+e6514113-7fb4-4fe1-bb75-a7a303649f88,2026-04-23 19:58:26,T-Shirt,Fashion,800,5,4000,Chennai,Credit Card
+c6bd674d-dcb2-41c5-bfc5-934679af71e4,2026-05-10 18:51:26,Shoes,Fashion,2500,4,10000,Mumbai,Debit Card
+a5e3adad-2d60-4705-b6cd-04a5521ae607,2026-05-08 01:50:26,Phone,Electronics,30000,5,150000,Mumbai,UPI
+305148c6-c386-4842-bd03-5f6d050f7ec4,2026-04-30 14:20:26,Phone,Electronics,30000,4,120000,Bangalore,UPI
+7e2fc3ea-138d-469d-86c3-48ca87f7f93c,2026-04-05 11:14:26,Phone,Electronics,30000,3,90000,Mumbai,Cash
+fdc007f9-31ee-477a-b8d9-e406859caa9a,2026-04-12 04:51:26,T-Shirt,Fashion,800,2,1600,Delhi,Cash
+8e41eda1-7941-44a9-9e83-8815dd60311e,2026-04-19 22:13:26,T-Shirt,Fashion,800,2,1600,Hyderabad,UPI
+174d32cc-3c0a-46ab-92f7-b02ecb225597,2026-03-15 20:53:26,Phone,Electronics,30000,5,150000,Hyderabad,Cash
+559f6f4f-6632-423b-a722-d1a27b40a4ae,2026-04-22 06:01:26,Headphones,Electronics,5000,4,20000,Pune,Cash
+956ed413-6ac1-4ece-8438-d300f4e8410c,2026-03-03 14:31:26,Headphones,Electronics,5000,2,10000,Delhi,Cash
+3ea50469-4b3a-4cce-ae01-5b614f02d11e,2026-03-20 09:02:26,Monitor,Electronics,15000,5,75000,Hyderabad,Credit Card
+d0417596-8111-4691-972d-8f97c13b1464,2026-03-28 22:23:26,Keyboard,Electronics,2000,2,4000,Mumbai,UPI
+a32b8f0c-e49e-420f-9412-970dbd4694b1,2026-03-25 09:16:26,Mouse,Electronics,1000,5,5000,Chennai,Credit Card
+d4dfd1b5-ef6c-4fdc-aeeb-4ce4802f569b,2026-04-11 23:12:26,Keyboard,Electronics,2000,1,2000,Delhi,UPI
+b6be28a9-9586-4830-92cf-ad0a3d27c9ae,2026-03-08 08:03:26,Watch,Accessories,5000,1,5000,Hyderabad,Credit Card
+d091bdf1-52d0-4e79-ba3c-3d08d3567e83,2026-04-20 02:55:26,Headphones,Electronics,5000,4,20000,Delhi,UPI
+05b99946-ce2e-4554-aaec-60db6b368b36,2026-05-02 08:00:26,Watch,Accessories,5000,4,20000,Chennai,Cash
+da8b67d4-3670-4175-a92f-f8ffe8268bf6,2026-05-10 11:30:26,Keyboard,Electronics,2000,4,8000,Chennai,UPI
+a76709f4-c809-4832-98fe-e9b619c2aa97,2026-04-13 23:48:26,Shoes,Fashion,2500,1,2500,Delhi,Debit Card
+c86bd735-8174-4e6d-a432-6f33915b621b,2026-03-07 21:05:26,Monitor,Electronics,15000,3,45000,Hyderabad,Credit Card
+adc59c86-3d55-4431-9e0d-87ffecfab50a,2026-05-06 16:03:26,Shoes,Fashion,2500,4,10000,Hyderabad,Cash
+9328529c-7826-4eae-9138-662420a74dae,2026-03-13 04:48:26,Headphones,Electronics,5000,4,20000,Delhi,Cash
